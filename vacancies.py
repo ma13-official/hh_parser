@@ -18,6 +18,17 @@ class Vacancies:
                            employer_id=None,
                            currency=None,
                            salary=None):
+        """
+        :param text: параметры запроса
+        :param area:
+        :param metro:
+        :param specialization:
+        :param industry:
+        :param employer_id:
+        :param currency:
+        :param salary:
+        :return: выполнение 20 запросов, запись вакансий в двумерный массив.
+        """
         value = 'vacancies'
         params = {'text': text,
                   'area': area,
@@ -28,32 +39,45 @@ class Vacancies:
                   'currency': currency,
                   'salary': salary,
                   'per_page': 100}
-        count_average_time = 0
-        for x in range(0, 100, 1):
+        for x in range(0, 20, 1):
             params['page'] = 0
             vacancies = APIHHConnect.connect(value, params)
             # self.filling_vacancies_array(vacancies)
             self.get_needed_fields(vacancies)
 
+    def get_needed_fields(self, vacancies):
+        """
+        :param vacancies: JSON-объект полученный после запроса
+        :return: заполнение двумерного массива vacancies_array необходимыми полями.
+        """
+        for vacancy in vacancies[list(vacancies.keys())[0]]:
+            self.number_of_vacancies += 1
+            cur_vacancy = [self.number_of_vacancies]
+            if vacancy['archived']:
+                continue
+            for field in self.name_of_fields:
+                cur_vacancy.append(self.check_inner1(vacancy, field))
+            self.vacancies_array.append(cur_vacancy)
+
     def filling_vacancies_array(self, vacancies):
+        """
+        :param vacancies: JSON-объект полученный после запроса
+        :return: заполнение двумерного массива vacancies_array необходимыми полями.
+        """
         for vacancy in vacancies[list(vacancies.keys())[0]]:
             self.number_of_vacancies += 1
             cur_vacancy = [self.number_of_vacancies]
             for field in list(vacancy.keys()):
-                cur_vacancy.append(self.check_inner_fields(vacancy, field))
-            self.vacancies_array.append(cur_vacancy)
-
-    def get_needed_fields(self, vacancies):
-        for vacancy in vacancies[list(vacancies.keys())[0]]:
-            self.number_of_vacancies += 1
-            cur_vacancy = [self.number_of_vacancies]
-            if vacancy['archived']: continue
-            for field in self.name_of_fields:
-                cur_vacancy.append(self.check_inner(vacancy, field))
+                cur_vacancy.append(self.check_inner2(vacancy, field))
             self.vacancies_array.append(cur_vacancy)
 
     @staticmethod
-    def check_inner(vacancy, field):
+    def check_inner1(vacancy, field):
+        """
+        :param vacancy: вакансия - одна из ста полученных в JSON-объекта;
+        :param field: поле вакансии, которое необходимо рассмотреть;
+        :return: конкретное значение для добавления в двумерный массив.
+        """
         if vacancy[field] is not None:
             if isinstance(vacancy[field], list):
                 if len(vacancy[field]) == 0:
@@ -79,7 +103,12 @@ class Vacancies:
                 case 'accept_temporary': return vacancy[field]
 
     @staticmethod
-    def check_inner_fields(vacancy, field):
+    def check_inner2(vacancy, field):
+        """
+        :param vacancy: вакансия - одна из ста полученных в JSON-объекта;
+        :param field: поле вакансии, которое необходимо рассмотреть;
+        :return: общее значение для добавления в двумерный массив.
+        """
         if vacancy[field] is not None:
             if isinstance(vacancy[field], dict):
                 if len(vacancy[field]) == 2 or field == 'area' or field == 'employer':
@@ -94,13 +123,16 @@ class Vacancies:
             if field == 'address':
                 return vacancy[field]['raw']
             elif field == 'salary':
-                return str(vacancy[field]['from']) + '-' + str(vacancy[field]['to'])
+                return str(vacancy[field]['from']) + ' - ' + str(vacancy[field]['to'])
             else:
                 if not vacancy[field]:
                     return None
                 return vacancy[field]
 
     def write_in_xlsx(self):
+        """
+        :return: запись двумерного массива в Excel-таблицу.
+        """
         wb = Workbook()
         ws = wb.active
         ws.append(self.name_of_fields)
@@ -117,6 +149,17 @@ class Vacancies:
               employer_id=None,
               currency=None,
               salary=None):
+        """
+        :param text:
+        :param area:
+        :param metro:
+        :param specialization:
+        :param industry:
+        :param employer_id:
+        :param currency:
+        :param salary:
+        :return: запуск приложения
+        """
         self.checking_all_pages(text, area, metro, specialization, industry, employer_id, currency, salary)
         self.write_in_xlsx()
 
