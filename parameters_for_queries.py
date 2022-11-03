@@ -59,4 +59,10 @@ class ParametersForQueries:
         print(json.dumps(data, sort_keys=False, indent=4, ensure_ascii=False, separators=(',', ': ')))
 
 
-ParametersForQueries.get_and_print_sorted("specializations")
+# a = "industries"
+# b = "specializations"
+# if input("a or b") == "a":
+#     ParametersForQueries.get_and_print_sorted(a)
+# else:
+#     ParametersForQueries.get_and_print_sorted(b)
+ParametersForQueries.get_and_print_like_json('professional_roles')
