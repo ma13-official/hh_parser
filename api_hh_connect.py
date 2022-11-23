@@ -14,8 +14,9 @@ class APIHHConnect:
         try:
             if list(data.keys())[0] == 'errors':
                 if data['errors'][0]['value'] == 'captcha_required':
-                    print(params)
                     params['backurl'] = data['errors'][0]['captcha_url'] + '&backurl=' + query
+                    print(params)
+                    x = input()
                     APIHHConnect.connect(query, params)  # потенциальная ошибка, если backurl кидает не туда
                 else:
                     print(data)

@@ -2,6 +2,7 @@ import json
 import os
 from openpyxl.workbook import Workbook
 from api_hh_connect import APIHHConnect
+from csvs import CSVs
 
 
 class Vacancy:
@@ -27,8 +28,6 @@ class Vacancy:
         self.working_time_intervals = working_time_intervals
         self.working_time_modes = working_time_modes
         self.accept_temporary = accept_temporary
-        self.create_csv()
-        # self.get_json()
 
     @staticmethod
     def create_vacancy(vacancy, currencies):
@@ -80,36 +79,3 @@ class Vacancy:
         return Vacancy(vacancy_id, name, area, address, employer, url_hh, url_json, published_at, created_at,
                        salary_from, salary_to, requirement, responsibility, schedule, working_days,
                        working_time_intervals, working_time_modes, accept_temporary)
-
-    def create_csv(self):
-        past_path = os.getcwd()
-        PATH = 'C:/Users/mi/work/hh_parser/vacancies/'
-        wb = Workbook()
-        ws = wb.active
-        name_of_fields = ['vacancy_id', 'name', 'area', 'address', 'employer', 'url_hh', 'url_json',
-                          'published_at', 'created_at', 'salary_from', 'salary_to', 'requirement', 'responsibility',
-                          'schedule', 'working_days', 'working_time_intervals', 'working_time_modes',
-                          'accept_temporary']
-        ws.append(name_of_fields)
-        row = []
-        for value in self.__dict__.values():
-            row.append(value)
-        ws.append(row)
-        date = self.published_at[:10]
-        wb.save(PATH + date + '/' + str(self.vacancy_id) + '.csv')
-
-    def get_json(self):
-        PATH = 'C:/Users/mi/work/hh_parser/vacancies_jsons/'
-        vacancy = APIHHConnect.connect('vacancies/' + self.vacancy_id)
-        date = self.published_at[:10]
-        os.chdir(PATH)
-        if not os.path.isdir(date):
-            os.mkdir(date)
-        os.chdir(date)
-        with open(PATH + date + '/' + str(self.vacancy_id) + '.json', 'w') as outfile:
-            json.dump(vacancy, outfile, sort_keys=False, indent=4, ensure_ascii=False, separators=(',', ': '))
-
-    @staticmethod
-    def check_csv(vacancy):
-        return not os.path.exists('C:/Users/mi/work/hh_parser/vacancies/' + vacancy.published_at[:10] + '/'
-                                  + str(vacancy.vacancy_id) + '.csv')

@@ -58,11 +58,19 @@ class ParametersForQueries:
         data = APIHHConnect.connect(query)
         print(json.dumps(data, sort_keys=False, indent=4, ensure_ascii=False, separators=(',', ': ')))
 
+    @staticmethod
+    def get_currencies():
+        currencies = {}
+        dictionaries = APIHHConnect.connect('dictionaries')
+        for currency in dictionaries['currency']:
+            currencies[currency['code']] = currency['rate']
+        return currencies
 
-a = "industries"
-b = "specializations"
-if input("a or b") == "a":
-    ParametersForQueries.get_and_print_sorted(a)
-else:
-    ParametersForQueries.get_and_print_sorted(b)
+
+# a = "industries"
+# b = "specializations"
+# if input("a or b") == "a":
+#     ParametersForQueries.get_and_print_sorted(a)
+# else:
+#     ParametersForQueries.get_and_print_sorted(b)
 # ParametersForQueries.get_and_print_like_json('professional_roles')
