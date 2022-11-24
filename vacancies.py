@@ -147,15 +147,15 @@ class Vacancies:
         """
         number_of_days = 30
         logging.basicConfig(level=logging.INFO,
-                            filename=f"vacancies_log{datetime.datetime.today().strftime('%Y-%m-%dT%H--%M--%S')}.log",
+                            filename=f"/vacancies_logs/vacancies_log{datetime.datetime.today().strftime('%Y-%m-%dT%H--%M--%S')}.log",
                             filemode="w", format="%(asctime)s %(levelname)s %(message)s")
         logging.info(f"Checking of last {number_of_days} days started.")
-        self.currencies = ParametersForQueries.get_currencies()
-        self.check_all(number_of_days)
+        # self.currencies = ParametersForQueries.get_currencies()
+        # self.check_all(number_of_days)
         # YaDisk.write_on_yadisk()
-        logging.info(self.every_day_checks_counter)
-        logging.info(self.every_hour_checks_counter)
-        logging.info(self.count_duplicates)
+        # logging.info(self.every_day_checks_counter)
+        # logging.info(self.every_hour_checks_counter)
+        # logging.info(self.count_duplicates)
         # self.upload_all_jsons()
         # print(self.errors)
 
