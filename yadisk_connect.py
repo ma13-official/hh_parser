@@ -9,7 +9,7 @@ class YaDisk:
     def write_on_yadisk():
         y = YaDisk.connect()
 
-        directory = "vacancies_per_day"
+        directory = "vacancies_per_day_without_salary"
 
         for filename in os.scandir(directory):
             print(filename.name)

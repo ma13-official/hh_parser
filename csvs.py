@@ -20,7 +20,7 @@ class CSVs:
         number = 0
         for item in vacancies_array.values():
             if number == 0 and name_of_fields:
-                ws.append(list(item.__dict__.keys()))
+                ws.append(['number'] + list(item.__dict__.keys()))
             number += 1
             row = [number]
             for value in item.__dict__.values():
@@ -33,7 +33,7 @@ class CSVs:
         PATH = 'C:/Users/mi/work/hh_parser/vacancies/'
         wb = Workbook()
         ws = wb.active
-        ws.append(list(vacancy.__dict__.keys()))
+        ws.append(['number'] + list(vacancy.__dict__.keys()))
         row = []
         for value in vacancy.__dict__.values():
             row.append(value)

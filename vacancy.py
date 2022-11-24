@@ -54,17 +54,14 @@ class Vacancy:
                     case 'employer':
                         employer = vacancy['employer']['name']
                     case 'salary':
-                        if salary_from is None:
-                            salary_from = None
-                            continue
-                        if salary_to is None:
-                            salary_to = None
-                            continue
-                        salary_from = vacancy['salary']['from'] / currencies[vacancy['salary']['currency']]
-                        salary_to = vacancy['salary']['to'] / currencies[vacancy['salary']['currency']]
-                        if vacancy['salary']['gross']:
-                            salary_from *= 0.87
-                            salary_to *= 0.87
+                        if vacancy['salary']['to'] is not None:
+                            salary_to = vacancy['salary']['to'] / currencies[vacancy['salary']['currency']]
+                            if vacancy['salary']['gross']:
+                                salary_to *= 0.87
+                        if vacancy['salary']['from'] is not None:
+                            salary_from = vacancy['salary']['from'] / currencies[vacancy['salary']['currency']]
+                            if vacancy['salary']['gross']:
+                                salary_from *= 0.87
                     case 'snippet':
                         requirement = vacancy['snippet']['requirement']
                         responsibility = vacancy['snippet']['responsibility']
@@ -79,3 +76,6 @@ class Vacancy:
         return Vacancy(vacancy_id, name, area, address, employer, url_hh, url_json, published_at, created_at,
                        salary_from, salary_to, requirement, responsibility, schedule, working_days,
                        working_time_intervals, working_time_modes, accept_temporary)
+
+# v = Vacancy(1,2,3,4,5,'6','7',8,9)
+# print(v.__dict__.values())

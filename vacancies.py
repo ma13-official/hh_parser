@@ -133,8 +133,8 @@ class Vacancies:
             if vacancy['archived']:
                 continue
             vacancy_to_add = Vacancy.create_vacancy(vacancy, self.currencies)
+            self.vacancies_array[vacancy_to_add.vacancy_id] = vacancy_to_add
             if CSVs.check_csv(vacancy_to_add):
-                self.vacancies_array[vacancy_to_add.vacancy_id] = vacancy_to_add
                 self.json_urls.append([vacancy_to_add.vacancy_id, vacancy_to_add.url_json])
                 CSVs.create_csv(vacancy_to_add)
             else:
@@ -145,7 +145,7 @@ class Vacancies:
         """
         :return: запуск приложения
         """
-        number_of_days = 3
+        number_of_days = 30
         logging.basicConfig(level=logging.INFO,
                             filename=f"vacancies_log{datetime.datetime.today().strftime('%Y-%m-%dT%H--%M--%S')}.log",
                             filemode="w", format="%(asctime)s %(levelname)s %(message)s")
