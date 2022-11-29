@@ -1,0 +1,10 @@
+{
+    "errors": [
+        {
+            "value": "captcha_required",
+            "captcha_url": "https://hh.ru/account/captcha?state=pxvcxBozfu7ry7R4QCetFpeicJ2Ml-ur_701s7jX2mZxCzHziryEFFjVgnI-vznkAcpHmljl1FZWeMg1JVfYOT1Zt5zk5nBPM1Xanb7o8NaZHoN_Z2BM_wDs2l_L9TZp",
+            "type": "captcha_required"
+        }
+    ],
+    "request_id": "1669674937631993eb004e339c2925ed"
+}

@@ -1,0 +1,3 @@
+2022-11-27 22:45:54,755 INFO <_io.TextIOWrapper name='C:/Users/mi/OneDrive - ITMO UNIVERSITY/work/hh_parser/json_urls/2022-11-26.xlsx' mode='r' encoding='cp1251'>
+2022-11-27 22:45:54,862 INFO ('69282596', 'https://api.hh.ru/vacancies/69282596?host=hh.ru ')
+2022-11-27 22:45:54,862 INFO https://api.hh.ru/vacancies/69282596?host=hh.ru  1   0.10672859998885542

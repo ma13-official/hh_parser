@@ -1,0 +1,46 @@
+2022-11-29 01:12:20,758 INFO Upload of single vacancies JSONs started.
+2022-11-29 01:12:20,764 INFO ('71403757', 'https://api.hh.ru/vacancies/71403757?host=hh.ru ', False)
+2022-11-29 01:12:20,764 INFO https://api.hh.ru/vacancies/71403757?host=hh.ru  1   0.00018769997404888272
+2022-11-29 01:12:20,889 INFO Found credentials in shared credentials file: ~/.aws/credentials
+2022-11-29 01:12:21,077 INFO ('71400971', 'https://api.hh.ru/vacancies/71400971?host=hh.ru ', False)
+2022-11-29 01:12:21,077 INFO https://api.hh.ru/vacancies/71400971?host=hh.ru  2   0.3099684999906458
+2022-11-29 01:12:21,187 INFO Found credentials in shared credentials file: ~/.aws/credentials
+2022-11-29 01:12:21,374 INFO ('71400390', 'https://api.hh.ru/vacancies/71400390?host=hh.ru ', False)
+2022-11-29 01:12:21,374 INFO https://api.hh.ru/vacancies/71400390?host=hh.ru  3   0.5982875999761745
+2022-11-29 01:12:21,468 INFO Found credentials in shared credentials file: ~/.aws/credentials
+2022-11-29 01:12:21,641 INFO ('71401317', 'https://api.hh.ru/vacancies/71401317?host=hh.ru ', False)
+2022-11-29 01:12:21,641 INFO https://api.hh.ru/vacancies/71401317?host=hh.ru  4   0.8707105999928899
+2022-11-29 01:12:21,704 INFO Found credentials in shared credentials file: ~/.aws/credentials
+2022-11-29 01:12:21,963 INFO ('71402551', 'https://api.hh.ru/vacancies/71402551?host=hh.ru ', False)
+2022-11-29 01:12:21,963 INFO https://api.hh.ru/vacancies/71402551?host=hh.ru  5   1.18781819997821
+2022-11-29 01:12:22,072 INFO Found credentials in shared credentials file: ~/.aws/credentials
+2022-11-29 01:12:22,244 INFO ('71400434', 'https://api.hh.ru/vacancies/71400434?host=hh.ru ', False)
+2022-11-29 01:12:22,244 INFO https://api.hh.ru/vacancies/71400434?host=hh.ru  6   1.4774132000165991
+2022-11-29 01:12:22,368 INFO Found credentials in shared credentials file: ~/.aws/credentials
+2022-11-29 01:12:22,548 INFO ('71402447', 'https://api.hh.ru/vacancies/71402447?host=hh.ru ', False)
+2022-11-29 01:12:22,548 INFO https://api.hh.ru/vacancies/71402447?host=hh.ru  7   1.7696276999777183
+2022-11-29 01:12:22,681 INFO Found credentials in shared credentials file: ~/.aws/credentials
+2022-11-29 01:12:22,945 INFO ('71399503', 'https://api.hh.ru/vacancies/71399503?host=hh.ru ', False)
+2022-11-29 01:12:22,945 INFO https://api.hh.ru/vacancies/71399503?host=hh.ru  8   2.166521599981934
+2022-11-29 01:12:23,039 INFO Found credentials in shared credentials file: ~/.aws/credentials
+2022-11-29 01:12:23,256 INFO ('71400982', 'https://api.hh.ru/vacancies/71400982?host=hh.ru ', False)
+2022-11-29 01:12:23,256 INFO https://api.hh.ru/vacancies/71400982?host=hh.ru  9   2.477985200006515
+2022-11-29 01:12:23,346 INFO Found credentials in shared credentials file: ~/.aws/credentials
+2022-11-29 01:12:23,512 INFO ('69824304', 'https://api.hh.ru/vacancies/69824304?host=hh.ru ', False)
+2022-11-29 01:12:23,512 INFO https://api.hh.ru/vacancies/69824304?host=hh.ru  10   2.733707699982915
+2022-11-29 01:12:23,589 INFO Found credentials in shared credentials file: ~/.aws/credentials
+2022-11-29 01:12:23,797 INFO ('71400233', 'https://api.hh.ru/vacancies/71400233?host=hh.ru ', False)
+2022-11-29 01:12:23,797 INFO https://api.hh.ru/vacancies/71400233?host=hh.ru  11   3.018650999991223
+2022-11-29 01:12:23,885 INFO Found credentials in shared credentials file: ~/.aws/credentials
+2022-11-29 01:12:24,073 INFO ('71398933', 'https://api.hh.ru/vacancies/71398933?host=hh.ru ', False)
+2022-11-29 01:12:24,074 INFO https://api.hh.ru/vacancies/71398933?host=hh.ru  12   3.295409500016831
+2022-11-29 01:12:24,172 INFO Found credentials in shared credentials file: ~/.aws/credentials
+2022-11-29 01:12:24,358 INFO ('71402982', 'https://api.hh.ru/vacancies/71402982?host=hh.ru ', False)
+2022-11-29 01:12:24,358 INFO https://api.hh.ru/vacancies/71402982?host=hh.ru  13   3.579706599994097
+2022-11-29 01:12:24,480 INFO Found credentials in shared credentials file: ~/.aws/credentials
+2022-11-29 01:12:24,764 INFO ('71400294', 'https://api.hh.ru/vacancies/71400294?host=hh.ru ', False)
+2022-11-29 01:12:24,764 INFO https://api.hh.ru/vacancies/71400294?host=hh.ru  14   3.985526899981778
+2022-11-29 01:12:24,843 INFO Found credentials in shared credentials file: ~/.aws/credentials
+2022-11-29 01:12:25,035 INFO ('71399179', 'https://api.hh.ru/vacancies/71399179?host=hh.ru ', False)
+2022-11-29 01:12:25,035 INFO https://api.hh.ru/vacancies/71399179?host=hh.ru  15   4.256041400018148
+2022-11-29 01:12:25,124 INFO Found credentials in shared credentials file: ~/.aws/credentials

@@ -1,0 +1,57 @@
+2022-11-27 22:41:42,584 INFO <_io.TextIOWrapper name='C:/Users/mi/OneDrive - ITMO UNIVERSITY/work/hh_parser/json_urls/2022-11-26.xlsx' mode='r' encoding='cp1251'>
+2022-11-27 22:41:42,689 INFO ('69282596', 'https://api.hh.ru/vacancies/69282596?host=hh.ru ')
+2022-11-27 22:41:42,689 INFO https://api.hh.ru/vacancies/69282596?host=hh.ru  1   0.10493370000040159
+2022-11-27 22:41:42,757 ERROR 'id'
+2022-11-27 22:41:42,757 INFO ('72042077', 'https://api.hh.ru/vacancies/72042077?host=hh.ru ')
+2022-11-27 22:41:42,757 INFO https://api.hh.ru/vacancies/72042077?host=hh.ru  2   0.1735453000292182
+2022-11-27 22:41:42,822 ERROR 'id'
+2022-11-27 22:41:42,822 INFO ('72198987', 'https://api.hh.ru/vacancies/72198987?host=hh.ru ')
+2022-11-27 22:41:42,822 INFO https://api.hh.ru/vacancies/72198987?host=hh.ru  3   0.23852440004702657
+2022-11-27 22:41:42,961 ERROR 'id'
+2022-11-27 22:41:42,961 INFO ('72040839', 'https://api.hh.ru/vacancies/72040839?host=hh.ru ')
+2022-11-27 22:41:42,961 INFO https://api.hh.ru/vacancies/72040839?host=hh.ru  4   0.37695140001596883
+2022-11-27 22:41:43,089 ERROR 'id'
+2022-11-27 22:41:43,090 INFO ('71845058', 'https://api.hh.ru/vacancies/71845058?host=hh.ru ')
+2022-11-27 22:41:43,090 INFO https://api.hh.ru/vacancies/71845058?host=hh.ru  5   0.5058088000514545
+2022-11-27 22:41:43,160 ERROR 'id'
+2022-11-27 22:41:43,160 INFO ('72772722', 'https://api.hh.ru/vacancies/72772722?host=hh.ru ')
+2022-11-27 22:41:43,161 INFO https://api.hh.ru/vacancies/72772722?host=hh.ru  6   0.5767447000253014
+2022-11-27 22:41:43,218 ERROR 'id'
+2022-11-27 22:41:43,218 INFO ('72040840', 'https://api.hh.ru/vacancies/72040840?host=hh.ru ')
+2022-11-27 22:41:43,218 INFO https://api.hh.ru/vacancies/72040840?host=hh.ru  7   0.6346598000382073
+2022-11-27 22:41:43,339 ERROR 'id'
+2022-11-27 22:41:43,339 INFO ('70655564', 'https://api.hh.ru/vacancies/70655564?host=hh.ru ')
+2022-11-27 22:41:43,339 INFO https://api.hh.ru/vacancies/70655564?host=hh.ru  8   0.755116900021676
+2022-11-27 22:41:43,399 ERROR 'id'
+2022-11-27 22:41:43,399 INFO ('72961469', 'https://api.hh.ru/vacancies/72961469?host=hh.ru ')
+2022-11-27 22:41:43,399 INFO https://api.hh.ru/vacancies/72961469?host=hh.ru  9   0.8147230000467971
+2022-11-27 22:41:43,456 ERROR 'id'
+2022-11-27 22:41:43,456 INFO ('71845052', 'https://api.hh.ru/vacancies/71845052?host=hh.ru ')
+2022-11-27 22:41:43,456 INFO https://api.hh.ru/vacancies/71845052?host=hh.ru  10   0.8721757000312209
+2022-11-27 22:41:43,521 ERROR 'id'
+2022-11-27 22:41:43,521 INFO ('72040837', 'https://api.hh.ru/vacancies/72040837?host=hh.ru ')
+2022-11-27 22:41:43,521 INFO https://api.hh.ru/vacancies/72040837?host=hh.ru  11   0.9367961000534706
+2022-11-27 22:41:43,580 ERROR 'id'
+2022-11-27 22:41:43,580 INFO ('72274611', 'https://api.hh.ru/vacancies/72274611?host=hh.ru ')
+2022-11-27 22:41:43,580 INFO https://api.hh.ru/vacancies/72274611?host=hh.ru  12   0.9958578000077978
+2022-11-27 22:41:43,643 ERROR 'id'
+2022-11-27 22:41:43,644 INFO ('72040836', 'https://api.hh.ru/vacancies/72040836?host=hh.ru ')
+2022-11-27 22:41:43,644 INFO https://api.hh.ru/vacancies/72040836?host=hh.ru  13   1.0596113000065088
+2022-11-27 22:41:43,729 ERROR 'id'
+2022-11-27 22:41:43,729 INFO ('71259216', 'https://api.hh.ru/vacancies/71259216?host=hh.ru ')
+2022-11-27 22:41:43,729 INFO https://api.hh.ru/vacancies/71259216?host=hh.ru  14   1.1454934000503272
+2022-11-27 22:41:43,860 ERROR 'id'
+2022-11-27 22:41:43,860 INFO ('72772795', 'https://api.hh.ru/vacancies/72772795?host=hh.ru ')
+2022-11-27 22:41:43,860 INFO https://api.hh.ru/vacancies/72772795?host=hh.ru  15   1.276149700046517
+2022-11-27 22:41:43,934 ERROR 'id'
+2022-11-27 22:41:43,934 INFO ('72040835', 'https://api.hh.ru/vacancies/72040835?host=hh.ru ')
+2022-11-27 22:41:43,934 INFO https://api.hh.ru/vacancies/72040835?host=hh.ru  16   1.3499287000158802
+2022-11-27 22:41:44,037 ERROR 'id'
+2022-11-27 22:41:44,037 INFO ('71845044', 'https://api.hh.ru/vacancies/71845044?host=hh.ru ')
+2022-11-27 22:41:44,037 INFO https://api.hh.ru/vacancies/71845044?host=hh.ru  17   1.4528253000462428
+2022-11-27 22:41:44,121 ERROR 'id'
+2022-11-27 22:41:44,121 INFO ('70128241', 'https://api.hh.ru/vacancies/70128241?host=hh.ru ')
+2022-11-27 22:41:44,121 INFO https://api.hh.ru/vacancies/70128241?host=hh.ru  18   1.5361555000417866
+2022-11-27 22:41:44,497 ERROR 'id'
+2022-11-27 22:41:44,497 INFO ('72040838', 'https://api.hh.ru/vacancies/72040838?host=hh.ru ')
+2022-11-27 22:41:44,497 INFO https://api.hh.ru/vacancies/72040838?host=hh.ru  19   1.9126632999978028

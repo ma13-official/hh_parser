@@ -1,0 +1,1516 @@
+2022-11-28 01:41:31,988 INFO Upload of single vacancies JSONs started.
+2022-11-28 01:41:32,105 INFO <_io.TextIOWrapper name='C:/Users/mi/OneDrive - ITMO UNIVERSITY/work/hh_parser/json_urls/2022-11-27.xlsx' mode='r' encoding='cp1251'>
+2022-11-28 01:41:32,106 INFO ('72567973', 'https://api.hh.ru/vacancies/72567973?host=hh.ru ')
+2022-11-28 01:41:32,107 INFO https://api.hh.ru/vacancies/72567973?host=hh.ru  1   0.001273999980185181
+2022-11-28 01:41:32,196 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:32,196 INFO ('72071660', 'https://api.hh.ru/vacancies/72071660?host=hh.ru ')
+2022-11-28 01:41:32,196 INFO https://api.hh.ru/vacancies/72071660?host=hh.ru  2   0.09147429995937273
+2022-11-28 01:41:32,264 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:32,264 INFO ('72994290', 'https://api.hh.ru/vacancies/72994290?host=hh.ru ')
+2022-11-28 01:41:32,264 INFO https://api.hh.ru/vacancies/72994290?host=hh.ru  3   0.1595254999701865
+2022-11-28 01:41:32,364 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:32,364 INFO ('72994063', 'https://api.hh.ru/vacancies/72994063?host=hh.ru ')
+2022-11-28 01:41:32,364 INFO https://api.hh.ru/vacancies/72994063?host=hh.ru  4   0.2595912999822758
+2022-11-28 01:41:32,460 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:32,461 INFO ('72994603', 'https://api.hh.ru/vacancies/72994603?host=hh.ru ')
+2022-11-28 01:41:32,461 INFO https://api.hh.ru/vacancies/72994603?host=hh.ru  5   0.35555969999404624
+2022-11-28 01:41:32,548 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:32,548 INFO ('72994228', 'https://api.hh.ru/vacancies/72994228?host=hh.ru ')
+2022-11-28 01:41:32,548 INFO https://api.hh.ru/vacancies/72994228?host=hh.ru  6   0.4429628999787383
+2022-11-28 01:41:32,607 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:32,607 INFO ('72994593', 'https://api.hh.ru/vacancies/72994593?host=hh.ru ')
+2022-11-28 01:41:32,607 INFO https://api.hh.ru/vacancies/72994593?host=hh.ru  7   0.5025030999677256
+2022-11-28 01:41:32,681 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:32,681 INFO ('72994235', 'https://api.hh.ru/vacancies/72994235?host=hh.ru ')
+2022-11-28 01:41:32,681 INFO https://api.hh.ru/vacancies/72994235?host=hh.ru  8   0.5757713000057265
+2022-11-28 01:41:32,763 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:32,763 INFO ('72204512', 'https://api.hh.ru/vacancies/72204512?host=hh.ru ')
+2022-11-28 01:41:32,763 INFO https://api.hh.ru/vacancies/72204512?host=hh.ru  9   0.657638099975884
+2022-11-28 01:41:32,848 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:32,848 INFO ('72567666', 'https://api.hh.ru/vacancies/72567666?host=hh.ru ')
+2022-11-28 01:41:32,848 INFO https://api.hh.ru/vacancies/72567666?host=hh.ru  10   0.7430056000011973
+2022-11-28 01:41:32,924 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:32,924 INFO ('72994052', 'https://api.hh.ru/vacancies/72994052?host=hh.ru ')
+2022-11-28 01:41:32,924 INFO https://api.hh.ru/vacancies/72994052?host=hh.ru  11   0.8189738999935798
+2022-11-28 01:41:33,020 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:33,021 INFO ('71110459', 'https://api.hh.ru/vacancies/71110459?host=hh.ru ')
+2022-11-28 01:41:33,021 INFO https://api.hh.ru/vacancies/71110459?host=hh.ru  12   0.9157129999948665
+2022-11-28 01:41:33,089 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:33,089 INFO ('69495817', 'https://api.hh.ru/vacancies/69495817?host=hh.ru ')
+2022-11-28 01:41:33,089 INFO https://api.hh.ru/vacancies/69495817?host=hh.ru  13   0.9846735000028275
+2022-11-28 01:41:33,166 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:33,166 INFO ('72145255', 'https://api.hh.ru/vacancies/72145255?host=hh.ru ')
+2022-11-28 01:41:33,166 INFO https://api.hh.ru/vacancies/72145255?host=hh.ru  14   1.0608676999690942
+2022-11-28 01:41:33,247 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:33,247 INFO ('55559309', 'https://api.hh.ru/vacancies/55559309?host=hh.ru ')
+2022-11-28 01:41:33,247 INFO https://api.hh.ru/vacancies/55559309?host=hh.ru  15   1.1416591999586672
+2022-11-28 01:41:33,342 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:33,342 INFO ('70759464', 'https://api.hh.ru/vacancies/70759464?host=hh.ru ')
+2022-11-28 01:41:33,342 INFO https://api.hh.ru/vacancies/70759464?host=hh.ru  16   1.2373915999778546
+2022-11-28 01:41:33,483 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:33,483 INFO ('71792438', 'https://api.hh.ru/vacancies/71792438?host=hh.ru ')
+2022-11-28 01:41:33,483 INFO https://api.hh.ru/vacancies/71792438?host=hh.ru  17   1.3784737999667414
+2022-11-28 01:41:33,561 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:33,561 INFO ('72895573', 'https://api.hh.ru/vacancies/72895573?host=hh.ru ')
+2022-11-28 01:41:33,561 INFO https://api.hh.ru/vacancies/72895573?host=hh.ru  18   1.4561601000023074
+2022-11-28 01:41:33,730 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:33,730 INFO ('72994295', 'https://api.hh.ru/vacancies/72994295?host=hh.ru ')
+2022-11-28 01:41:33,730 INFO https://api.hh.ru/vacancies/72994295?host=hh.ru  19   1.6254957999917679
+2022-11-28 01:41:33,799 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:33,799 INFO ('71873714', 'https://api.hh.ru/vacancies/71873714?host=hh.ru ')
+2022-11-28 01:41:33,799 INFO https://api.hh.ru/vacancies/71873714?host=hh.ru  20   1.694387600000482
+2022-11-28 01:41:33,877 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:33,877 INFO ('71109742', 'https://api.hh.ru/vacancies/71109742?host=hh.ru ')
+2022-11-28 01:41:33,877 INFO https://api.hh.ru/vacancies/71109742?host=hh.ru  21   1.7728043999522924
+2022-11-28 01:41:33,967 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:33,967 INFO ('50894412', 'https://api.hh.ru/vacancies/50894412?host=hh.ru ')
+2022-11-28 01:41:33,967 INFO https://api.hh.ru/vacancies/50894412?host=hh.ru  22   1.8626526999869384
+2022-11-28 01:41:34,068 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:34,068 INFO ('71157929', 'https://api.hh.ru/vacancies/71157929?host=hh.ru ')
+2022-11-28 01:41:34,068 INFO https://api.hh.ru/vacancies/71157929?host=hh.ru  23   1.9627521999645978
+2022-11-28 01:41:34,137 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:34,137 INFO ('71595580', 'https://api.hh.ru/vacancies/71595580?host=hh.ru ')
+2022-11-28 01:41:34,137 INFO https://api.hh.ru/vacancies/71595580?host=hh.ru  24   2.032324499974493
+2022-11-28 01:41:34,208 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:34,208 INFO ('72707245', 'https://api.hh.ru/vacancies/72707245?host=hh.ru ')
+2022-11-28 01:41:34,208 INFO https://api.hh.ru/vacancies/72707245?host=hh.ru  25   2.1034641999867745
+2022-11-28 01:41:34,276 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:34,276 INFO ('68361577', 'https://api.hh.ru/vacancies/68361577?host=hh.ru ')
+2022-11-28 01:41:34,276 INFO https://api.hh.ru/vacancies/68361577?host=hh.ru  26   2.1709364999551326
+2022-11-28 01:41:34,366 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:34,366 INFO ('72072922', 'https://api.hh.ru/vacancies/72072922?host=hh.ru ')
+2022-11-28 01:41:34,366 INFO https://api.hh.ru/vacancies/72072922?host=hh.ru  27   2.2608810999663547
+2022-11-28 01:41:34,444 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:34,445 INFO ('68361578', 'https://api.hh.ru/vacancies/68361578?host=hh.ru ')
+2022-11-28 01:41:34,445 INFO https://api.hh.ru/vacancies/68361578?host=hh.ru  28   2.339319799968507
+2022-11-28 01:41:34,548 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:34,549 INFO ('71056955', 'https://api.hh.ru/vacancies/71056955?host=hh.ru ')
+2022-11-28 01:41:34,549 INFO https://api.hh.ru/vacancies/71056955?host=hh.ru  29   2.4435923999990337
+2022-11-28 01:41:34,621 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:34,621 INFO ('71056957', 'https://api.hh.ru/vacancies/71056957?host=hh.ru ')
+2022-11-28 01:41:34,621 INFO https://api.hh.ru/vacancies/71056957?host=hh.ru  30   2.516883999982383
+2022-11-28 01:41:34,690 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:34,690 INFO ('71940309', 'https://api.hh.ru/vacancies/71940309?host=hh.ru ')
+2022-11-28 01:41:34,690 INFO https://api.hh.ru/vacancies/71940309?host=hh.ru  31   2.5848427999881096
+2022-11-28 01:41:34,792 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:34,792 INFO ('71056956', 'https://api.hh.ru/vacancies/71056956?host=hh.ru ')
+2022-11-28 01:41:34,792 INFO https://api.hh.ru/vacancies/71056956?host=hh.ru  32   2.6873621999984607
+2022-11-28 01:41:34,870 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:34,870 INFO ('71056954', 'https://api.hh.ru/vacancies/71056954?host=hh.ru ')
+2022-11-28 01:41:34,870 INFO https://api.hh.ru/vacancies/71056954?host=hh.ru  33   2.7651410999824293
+2022-11-28 01:41:34,974 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:34,974 INFO ('72726495', 'https://api.hh.ru/vacancies/72726495?host=hh.ru ')
+2022-11-28 01:41:34,974 INFO https://api.hh.ru/vacancies/72726495?host=hh.ru  34   2.8686411999515258
+2022-11-28 01:41:35,065 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:35,065 INFO ('72257626', 'https://api.hh.ru/vacancies/72257626?host=hh.ru ')
+2022-11-28 01:41:35,065 INFO https://api.hh.ru/vacancies/72257626?host=hh.ru  35   2.9605729999602772
+2022-11-28 01:41:35,150 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:35,150 INFO ('72374782', 'https://api.hh.ru/vacancies/72374782?host=hh.ru ')
+2022-11-28 01:41:35,150 INFO https://api.hh.ru/vacancies/72374782?host=hh.ru  36   3.0454866999643855
+2022-11-28 01:41:35,238 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:35,238 INFO ('72993292', 'https://api.hh.ru/vacancies/72993292?host=hh.ru ')
+2022-11-28 01:41:35,239 INFO https://api.hh.ru/vacancies/72993292?host=hh.ru  37   3.1337958999793045
+2022-11-28 01:41:35,318 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:35,318 INFO ('72378471', 'https://api.hh.ru/vacancies/72378471?host=hh.ru ')
+2022-11-28 01:41:35,318 INFO https://api.hh.ru/vacancies/72378471?host=hh.ru  38   3.213170100003481
+2022-11-28 01:41:35,389 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:35,390 INFO ('71939773', 'https://api.hh.ru/vacancies/71939773?host=hh.ru ')
+2022-11-28 01:41:35,390 INFO https://api.hh.ru/vacancies/71939773?host=hh.ru  39   3.2845435999915935
+2022-11-28 01:41:35,459 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:35,459 INFO ('71787808', 'https://api.hh.ru/vacancies/71787808?host=hh.ru ')
+2022-11-28 01:41:35,459 INFO https://api.hh.ru/vacancies/71787808?host=hh.ru  40   3.3540181999560446
+2022-11-28 01:41:35,530 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:35,530 INFO ('71939635', 'https://api.hh.ru/vacancies/71939635?host=hh.ru ')
+2022-11-28 01:41:35,530 INFO https://api.hh.ru/vacancies/71939635?host=hh.ru  41   3.425115599995479
+2022-11-28 01:41:35,600 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:35,600 INFO ('72567330', 'https://api.hh.ru/vacancies/72567330?host=hh.ru ')
+2022-11-28 01:41:35,600 INFO https://api.hh.ru/vacancies/72567330?host=hh.ru  42   3.495309299963992
+2022-11-28 01:41:35,670 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:35,670 INFO ('71939634', 'https://api.hh.ru/vacancies/71939634?host=hh.ru ')
+2022-11-28 01:41:35,670 INFO https://api.hh.ru/vacancies/71939634?host=hh.ru  43   3.5654927999712527
+2022-11-28 01:41:35,748 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:35,749 INFO ('72378710', 'https://api.hh.ru/vacancies/72378710?host=hh.ru ')
+2022-11-28 01:41:35,749 INFO https://api.hh.ru/vacancies/72378710?host=hh.ru  44   3.6442931999918073
+2022-11-28 01:41:35,835 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:35,835 INFO ('72993293', 'https://api.hh.ru/vacancies/72993293?host=hh.ru ')
+2022-11-28 01:41:35,835 INFO https://api.hh.ru/vacancies/72993293?host=hh.ru  45   3.7304603999946266
+2022-11-28 01:41:35,917 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:35,917 INFO ('72059762', 'https://api.hh.ru/vacancies/72059762?host=hh.ru ')
+2022-11-28 01:41:35,917 INFO https://api.hh.ru/vacancies/72059762?host=hh.ru  46   3.8124691999983042
+2022-11-28 01:41:36,005 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:36,005 INFO ('72567662', 'https://api.hh.ru/vacancies/72567662?host=hh.ru ')
+2022-11-28 01:41:36,005 INFO https://api.hh.ru/vacancies/72567662?host=hh.ru  47   3.900814699998591
+2022-11-28 01:41:36,075 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:36,075 INFO ('72736215', 'https://api.hh.ru/vacancies/72736215?host=hh.ru ')
+2022-11-28 01:41:36,076 INFO https://api.hh.ru/vacancies/72736215?host=hh.ru  48   3.9708616999560036
+2022-11-28 01:41:36,190 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:36,190 INFO ('71940299', 'https://api.hh.ru/vacancies/71940299?host=hh.ru ')
+2022-11-28 01:41:36,190 INFO https://api.hh.ru/vacancies/71940299?host=hh.ru  49   4.08524619997479
+2022-11-28 01:41:36,281 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:36,282 INFO ('72993573', 'https://api.hh.ru/vacancies/72993573?host=hh.ru ')
+2022-11-28 01:41:36,282 INFO https://api.hh.ru/vacancies/72993573?host=hh.ru  50   4.176594399963506
+2022-11-28 01:41:36,373 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:36,373 INFO ('72025800', 'https://api.hh.ru/vacancies/72025800?host=hh.ru ')
+2022-11-28 01:41:36,373 INFO https://api.hh.ru/vacancies/72025800?host=hh.ru  51   4.26763449999271
+2022-11-28 01:41:36,471 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:36,471 INFO ('72993929', 'https://api.hh.ru/vacancies/72993929?host=hh.ru ')
+2022-11-28 01:41:36,471 INFO https://api.hh.ru/vacancies/72993929?host=hh.ru  52   4.366162699996494
+2022-11-28 01:41:36,538 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:36,538 INFO ('71939658', 'https://api.hh.ru/vacancies/71939658?host=hh.ru ')
+2022-11-28 01:41:36,538 INFO https://api.hh.ru/vacancies/71939658?host=hh.ru  53   4.433936799992807
+2022-11-28 01:41:36,614 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:36,614 INFO ('72893814', 'https://api.hh.ru/vacancies/72893814?host=hh.ru ')
+2022-11-28 01:41:36,614 INFO https://api.hh.ru/vacancies/72893814?host=hh.ru  54   4.508721599995624
+2022-11-28 01:41:36,721 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:36,721 INFO ('72993626', 'https://api.hh.ru/vacancies/72993626?host=hh.ru ')
+2022-11-28 01:41:36,721 INFO https://api.hh.ru/vacancies/72993626?host=hh.ru  55   4.616337899991777
+2022-11-28 01:41:36,943 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:36,943 INFO ('72993607', 'https://api.hh.ru/vacancies/72993607?host=hh.ru ')
+2022-11-28 01:41:36,943 INFO https://api.hh.ru/vacancies/72993607?host=hh.ru  56   4.838387899973895
+2022-11-28 01:41:37,014 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:37,014 INFO ('72993928', 'https://api.hh.ru/vacancies/72993928?host=hh.ru ')
+2022-11-28 01:41:37,014 INFO https://api.hh.ru/vacancies/72993928?host=hh.ru  57   4.909528999996837
+2022-11-28 01:41:37,091 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:37,091 INFO ('71653552', 'https://api.hh.ru/vacancies/71653552?host=hh.ru ')
+2022-11-28 01:41:37,091 INFO https://api.hh.ru/vacancies/71653552?host=hh.ru  58   4.986551299982239
+2022-11-28 01:41:37,173 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:37,173 INFO ('72820801', 'https://api.hh.ru/vacancies/72820801?host=hh.ru ')
+2022-11-28 01:41:37,173 INFO https://api.hh.ru/vacancies/72820801?host=hh.ru  59   5.068215799983591
+2022-11-28 01:41:37,257 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:37,257 INFO ('72993287', 'https://api.hh.ru/vacancies/72993287?host=hh.ru ')
+2022-11-28 01:41:37,257 INFO https://api.hh.ru/vacancies/72993287?host=hh.ru  60   5.152354299963918
+2022-11-28 01:41:37,324 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:37,324 INFO ('72705068', 'https://api.hh.ru/vacancies/72705068?host=hh.ru ')
+2022-11-28 01:41:37,324 INFO https://api.hh.ru/vacancies/72705068?host=hh.ru  61   5.219892699969932
+2022-11-28 01:41:37,424 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:37,424 INFO ('71939762', 'https://api.hh.ru/vacancies/71939762?host=hh.ru ')
+2022-11-28 01:41:37,424 INFO https://api.hh.ru/vacancies/71939762?host=hh.ru  62   5.319472800008953
+2022-11-28 01:41:37,495 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:37,495 INFO ('72857257', 'https://api.hh.ru/vacancies/72857257?host=hh.ru ')
+2022-11-28 01:41:37,495 INFO https://api.hh.ru/vacancies/72857257?host=hh.ru  63   5.390445099968929
+2022-11-28 01:41:37,576 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:37,576 INFO ('72144589', 'https://api.hh.ru/vacancies/72144589?host=hh.ru ')
+2022-11-28 01:41:37,576 INFO https://api.hh.ru/vacancies/72144589?host=hh.ru  64   5.471121299953666
+2022-11-28 01:41:37,646 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:37,646 INFO ('72993910', 'https://api.hh.ru/vacancies/72993910?host=hh.ru ')
+2022-11-28 01:41:37,646 INFO https://api.hh.ru/vacancies/72993910?host=hh.ru  65   5.541577099997085
+2022-11-28 01:41:38,019 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:38,019 INFO ('72894471', 'https://api.hh.ru/vacancies/72894471?host=hh.ru ')
+2022-11-28 01:41:38,019 INFO https://api.hh.ru/vacancies/72894471?host=hh.ru  66   5.914183299988508
+2022-11-28 01:41:38,088 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:38,088 INFO ('72378598', 'https://api.hh.ru/vacancies/72378598?host=hh.ru ')
+2022-11-28 01:41:38,088 INFO https://api.hh.ru/vacancies/72378598?host=hh.ru  67   5.983331999974325
+2022-11-28 01:41:38,169 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:38,169 INFO ('72993921', 'https://api.hh.ru/vacancies/72993921?host=hh.ru ')
+2022-11-28 01:41:38,169 INFO https://api.hh.ru/vacancies/72993921?host=hh.ru  68   6.064673999964725
+2022-11-28 01:41:38,273 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:38,273 INFO ('72004009', 'https://api.hh.ru/vacancies/72004009?host=hh.ru ')
+2022-11-28 01:41:38,273 INFO https://api.hh.ru/vacancies/72004009?host=hh.ru  69   6.167911699973047
+2022-11-28 01:41:38,364 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:38,365 INFO ('72993931', 'https://api.hh.ru/vacancies/72993931?host=hh.ru ')
+2022-11-28 01:41:38,365 INFO https://api.hh.ru/vacancies/72993931?host=hh.ru  70   6.259457999956794
+2022-11-28 01:41:38,445 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:38,445 INFO ('72413836', 'https://api.hh.ru/vacancies/72413836?host=hh.ru ')
+2022-11-28 01:41:38,446 INFO https://api.hh.ru/vacancies/72413836?host=hh.ru  71   6.341152699955273
+2022-11-28 01:41:38,544 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:38,544 INFO ('72257764', 'https://api.hh.ru/vacancies/72257764?host=hh.ru ')
+2022-11-28 01:41:38,544 INFO https://api.hh.ru/vacancies/72257764?host=hh.ru  72   6.439909899956547
+2022-11-28 01:41:38,633 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:38,633 INFO ('72993627', 'https://api.hh.ru/vacancies/72993627?host=hh.ru ')
+2022-11-28 01:41:38,633 INFO https://api.hh.ru/vacancies/72993627?host=hh.ru  73   6.528084399993531
+2022-11-28 01:41:38,754 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:38,754 INFO ('72993920', 'https://api.hh.ru/vacancies/72993920?host=hh.ru ')
+2022-11-28 01:41:38,754 INFO https://api.hh.ru/vacancies/72993920?host=hh.ru  74   6.649094699998386
+2022-11-28 01:41:38,859 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:38,859 INFO ('72374784', 'https://api.hh.ru/vacancies/72374784?host=hh.ru ')
+2022-11-28 01:41:38,859 INFO https://api.hh.ru/vacancies/72374784?host=hh.ru  75   6.754698399978224
+2022-11-28 01:41:38,958 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:38,958 INFO ('72993930', 'https://api.hh.ru/vacancies/72993930?host=hh.ru ')
+2022-11-28 01:41:38,958 INFO https://api.hh.ru/vacancies/72993930?host=hh.ru  76   6.853831299988087
+2022-11-28 01:41:39,058 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:39,058 INFO ('71787811', 'https://api.hh.ru/vacancies/71787811?host=hh.ru ')
+2022-11-28 01:41:39,058 INFO https://api.hh.ru/vacancies/71787811?host=hh.ru  77   6.953466699982528
+2022-11-28 01:41:39,129 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:39,129 INFO ('71940295', 'https://api.hh.ru/vacancies/71940295?host=hh.ru ')
+2022-11-28 01:41:39,129 INFO https://api.hh.ru/vacancies/71940295?host=hh.ru  78   7.024577799951658
+2022-11-28 01:41:39,198 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:39,198 INFO ('71940296', 'https://api.hh.ru/vacancies/71940296?host=hh.ru ')
+2022-11-28 01:41:39,198 INFO https://api.hh.ru/vacancies/71940296?host=hh.ru  79   7.093002899957355
+2022-11-28 01:41:39,274 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:39,274 INFO ('71940297', 'https://api.hh.ru/vacancies/71940297?host=hh.ru ')
+2022-11-28 01:41:39,274 INFO https://api.hh.ru/vacancies/71940297?host=hh.ru  80   7.170070299995132
+2022-11-28 01:41:39,368 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:39,368 INFO ('72884070', 'https://api.hh.ru/vacancies/72884070?host=hh.ru ')
+2022-11-28 01:41:39,368 INFO https://api.hh.ru/vacancies/72884070?host=hh.ru  81   7.263269399991259
+2022-11-28 01:41:39,480 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:39,480 INFO ('69728236', 'https://api.hh.ru/vacancies/69728236?host=hh.ru ')
+2022-11-28 01:41:39,481 INFO https://api.hh.ru/vacancies/69728236?host=hh.ru  82   7.37597839999944
+2022-11-28 01:41:39,554 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:39,554 INFO ('71653553', 'https://api.hh.ru/vacancies/71653553?host=hh.ru ')
+2022-11-28 01:41:39,554 INFO https://api.hh.ru/vacancies/71653553?host=hh.ru  83   7.449555900006089
+2022-11-28 01:41:39,655 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:39,655 INFO ('72884611', 'https://api.hh.ru/vacancies/72884611?host=hh.ru ')
+2022-11-28 01:41:39,655 INFO https://api.hh.ru/vacancies/72884611?host=hh.ru  84   7.5507842999650165
+2022-11-28 01:41:39,733 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:39,734 INFO ('72025726', 'https://api.hh.ru/vacancies/72025726?host=hh.ru ')
+2022-11-28 01:41:39,734 INFO https://api.hh.ru/vacancies/72025726?host=hh.ru  85   7.628894899971783
+2022-11-28 01:41:39,837 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:39,837 INFO ('72211957', 'https://api.hh.ru/vacancies/72211957?host=hh.ru ')
+2022-11-28 01:41:39,837 INFO https://api.hh.ru/vacancies/72211957?host=hh.ru  86   7.732291599968448
+2022-11-28 01:41:39,940 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:39,940 INFO ('72378971', 'https://api.hh.ru/vacancies/72378971?host=hh.ru ')
+2022-11-28 01:41:39,940 INFO https://api.hh.ru/vacancies/72378971?host=hh.ru  87   7.835376699978951
+2022-11-28 01:41:40,037 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:40,037 INFO ('72048966', 'https://api.hh.ru/vacancies/72048966?host=hh.ru ')
+2022-11-28 01:41:40,037 INFO https://api.hh.ru/vacancies/72048966?host=hh.ru  88   7.932781999988947
+2022-11-28 01:41:40,141 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:40,141 INFO ('72700126', 'https://api.hh.ru/vacancies/72700126?host=hh.ru ')
+2022-11-28 01:41:40,141 INFO https://api.hh.ru/vacancies/72700126?host=hh.ru  89   8.035927099990658
+2022-11-28 01:41:40,233 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:40,233 INFO ('71939571', 'https://api.hh.ru/vacancies/71939571?host=hh.ru ')
+2022-11-28 01:41:40,233 INFO https://api.hh.ru/vacancies/71939571?host=hh.ru  90   8.128581499971915
+2022-11-28 01:41:40,314 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:40,314 INFO ('71939711', 'https://api.hh.ru/vacancies/71939711?host=hh.ru ')
+2022-11-28 01:41:40,314 INFO https://api.hh.ru/vacancies/71939711?host=hh.ru  91   8.20905419997871
+2022-11-28 01:41:40,380 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:40,380 INFO ('72707199', 'https://api.hh.ru/vacancies/72707199?host=hh.ru ')
+2022-11-28 01:41:40,380 INFO https://api.hh.ru/vacancies/72707199?host=hh.ru  92   8.275973099982366
+2022-11-28 01:41:40,447 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:40,447 INFO ('71939610', 'https://api.hh.ru/vacancies/71939610?host=hh.ru ')
+2022-11-28 01:41:40,447 INFO https://api.hh.ru/vacancies/71939610?host=hh.ru  93   8.342383699957281
+2022-11-28 01:41:40,537 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:40,537 INFO ('71188203', 'https://api.hh.ru/vacancies/71188203?host=hh.ru ')
+2022-11-28 01:41:40,537 INFO https://api.hh.ru/vacancies/71188203?host=hh.ru  94   8.431700599961914
+2022-11-28 01:41:40,649 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:40,649 INFO ('72993606', 'https://api.hh.ru/vacancies/72993606?host=hh.ru ')
+2022-11-28 01:41:40,649 INFO https://api.hh.ru/vacancies/72993606?host=hh.ru  95   8.544027599971741
+2022-11-28 01:41:40,738 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:40,738 INFO ('72567664', 'https://api.hh.ru/vacancies/72567664?host=hh.ru ')
+2022-11-28 01:41:40,738 INFO https://api.hh.ru/vacancies/72567664?host=hh.ru  96   8.632830099959392
+2022-11-28 01:41:40,818 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:40,818 INFO ('72144581', 'https://api.hh.ru/vacancies/72144581?host=hh.ru ')
+2022-11-28 01:41:40,818 INFO https://api.hh.ru/vacancies/72144581?host=hh.ru  97   8.713647099968512
+2022-11-28 01:41:40,887 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:40,887 INFO ('71940298', 'https://api.hh.ru/vacancies/71940298?host=hh.ru ')
+2022-11-28 01:41:40,887 INFO https://api.hh.ru/vacancies/71940298?host=hh.ru  98   8.78207159996964
+2022-11-28 01:41:40,965 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:40,965 INFO ('72893824', 'https://api.hh.ru/vacancies/72893824?host=hh.ru ')
+2022-11-28 01:41:40,966 INFO https://api.hh.ru/vacancies/72893824?host=hh.ru  99   8.86058709997451
+2022-11-28 01:41:41,044 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:41,044 INFO ('71939609', 'https://api.hh.ru/vacancies/71939609?host=hh.ru ')
+2022-11-28 01:41:41,044 INFO https://api.hh.ru/vacancies/71939609?host=hh.ru  100   8.938687899964862
+2022-11-28 01:41:41,107 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:41,107 INFO ('71983634', 'https://api.hh.ru/vacancies/71983634?host=hh.ru ')
+2022-11-28 01:41:41,107 INFO https://api.hh.ru/vacancies/71983634?host=hh.ru  101   9.0020120999543
+2022-11-28 01:41:41,217 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:41,217 INFO ('69278697', 'https://api.hh.ru/vacancies/69278697?host=hh.ru ')
+2022-11-28 01:41:41,217 INFO https://api.hh.ru/vacancies/69278697?host=hh.ru  102   9.111994299979415
+2022-11-28 01:41:41,292 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:41,292 INFO ('72378681', 'https://api.hh.ru/vacancies/72378681?host=hh.ru ')
+2022-11-28 01:41:41,292 INFO https://api.hh.ru/vacancies/72378681?host=hh.ru  103   9.186687899986282
+2022-11-28 01:41:41,359 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:41,359 INFO ('72378686', 'https://api.hh.ru/vacancies/72378686?host=hh.ru ')
+2022-11-28 01:41:41,359 INFO https://api.hh.ru/vacancies/72378686?host=hh.ru  104   9.254557899956126
+2022-11-28 01:41:41,427 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:41,429 INFO ('71939597', 'https://api.hh.ru/vacancies/71939597?host=hh.ru ')
+2022-11-28 01:41:41,429 INFO https://api.hh.ru/vacancies/71939597?host=hh.ru  105   9.323360499984119
+2022-11-28 01:41:41,556 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:41,556 INFO ('71983641', 'https://api.hh.ru/vacancies/71983641?host=hh.ru ')
+2022-11-28 01:41:41,556 INFO https://api.hh.ru/vacancies/71983641?host=hh.ru  106   9.451104999985546
+2022-11-28 01:41:41,648 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:41,648 INFO ('72145081', 'https://api.hh.ru/vacancies/72145081?host=hh.ru ')
+2022-11-28 01:41:41,648 INFO https://api.hh.ru/vacancies/72145081?host=hh.ru  107   9.543325999984518
+2022-11-28 01:41:41,755 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:41,755 INFO ('71939790', 'https://api.hh.ru/vacancies/71939790?host=hh.ru ')
+2022-11-28 01:41:41,755 INFO https://api.hh.ru/vacancies/71939790?host=hh.ru  108   9.650153499969747
+2022-11-28 01:41:41,852 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:41,852 INFO ('71939504', 'https://api.hh.ru/vacancies/71939504?host=hh.ru ')
+2022-11-28 01:41:41,852 INFO https://api.hh.ru/vacancies/71939504?host=hh.ru  109   9.747247399995103
+2022-11-28 01:41:41,917 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:41,918 INFO ('71074935', 'https://api.hh.ru/vacancies/71074935?host=hh.ru ')
+2022-11-28 01:41:41,918 INFO https://api.hh.ru/vacancies/71074935?host=hh.ru  110   9.813063699984923
+2022-11-28 01:41:42,025 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:42,025 INFO ('71075011', 'https://api.hh.ru/vacancies/71075011?host=hh.ru ')
+2022-11-28 01:41:42,025 INFO https://api.hh.ru/vacancies/71075011?host=hh.ru  111   9.920470499957446
+2022-11-28 01:41:42,340 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:42,341 INFO ('72706509', 'https://api.hh.ru/vacancies/72706509?host=hh.ru ')
+2022-11-28 01:41:42,341 INFO https://api.hh.ru/vacancies/72706509?host=hh.ru  112   10.236112599959597
+2022-11-28 01:41:42,440 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:42,440 INFO ('71074980', 'https://api.hh.ru/vacancies/71074980?host=hh.ru ')
+2022-11-28 01:41:42,440 INFO https://api.hh.ru/vacancies/71074980?host=hh.ru  113   10.335656499955803
+2022-11-28 01:41:42,597 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:42,597 INFO ('70183854', 'https://api.hh.ru/vacancies/70183854?host=hh.ru ')
+2022-11-28 01:41:42,597 INFO https://api.hh.ru/vacancies/70183854?host=hh.ru  114   10.49221979995491
+2022-11-28 01:41:42,675 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:42,675 INFO ('72993063', 'https://api.hh.ru/vacancies/72993063?host=hh.ru ')
+2022-11-28 01:41:42,675 INFO https://api.hh.ru/vacancies/72993063?host=hh.ru  115   10.570335299998987
+2022-11-28 01:41:42,748 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:42,748 INFO ('72992943', 'https://api.hh.ru/vacancies/72992943?host=hh.ru ')
+2022-11-28 01:41:42,748 INFO https://api.hh.ru/vacancies/72992943?host=hh.ru  116   10.643913100007921
+2022-11-28 01:41:42,834 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:42,834 INFO ('72993240', 'https://api.hh.ru/vacancies/72993240?host=hh.ru ')
+2022-11-28 01:41:42,834 INFO https://api.hh.ru/vacancies/72993240?host=hh.ru  117   10.728645399969537
+2022-11-28 01:41:42,945 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:42,945 INFO ('72706013', 'https://api.hh.ru/vacancies/72706013?host=hh.ru ')
+2022-11-28 01:41:42,945 INFO https://api.hh.ru/vacancies/72706013?host=hh.ru  118   10.840641499962658
+2022-11-28 01:41:43,017 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:43,017 INFO ('72992903', 'https://api.hh.ru/vacancies/72992903?host=hh.ru ')
+2022-11-28 01:41:43,017 INFO https://api.hh.ru/vacancies/72992903?host=hh.ru  119   10.912465000001248
+2022-11-28 01:41:43,084 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:43,084 INFO ('71787015', 'https://api.hh.ru/vacancies/71787015?host=hh.ru ')
+2022-11-28 01:41:43,084 INFO https://api.hh.ru/vacancies/71787015?host=hh.ru  120   10.978579199989326
+2022-11-28 01:41:43,208 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:43,209 INFO ('72566514', 'https://api.hh.ru/vacancies/72566514?host=hh.ru ')
+2022-11-28 01:41:43,209 INFO https://api.hh.ru/vacancies/72566514?host=hh.ru  121   11.104045599990059
+2022-11-28 01:41:43,283 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:43,283 INFO ('72992922', 'https://api.hh.ru/vacancies/72992922?host=hh.ru ')
+2022-11-28 01:41:43,284 INFO https://api.hh.ru/vacancies/72992922?host=hh.ru  122   11.179011799977161
+2022-11-28 01:41:43,396 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:43,396 INFO ('72565779', 'https://api.hh.ru/vacancies/72565779?host=hh.ru ')
+2022-11-28 01:41:43,396 INFO https://api.hh.ru/vacancies/72565779?host=hh.ru  123   11.291236899967771
+2022-11-28 01:41:43,512 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:43,512 INFO ('71787473', 'https://api.hh.ru/vacancies/71787473?host=hh.ru ')
+2022-11-28 01:41:43,512 INFO https://api.hh.ru/vacancies/71787473?host=hh.ru  124   11.406645999988541
+2022-11-28 01:41:43,616 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:43,616 INFO ('72378079', 'https://api.hh.ru/vacancies/72378079?host=hh.ru ')
+2022-11-28 01:41:43,616 INFO https://api.hh.ru/vacancies/72378079?host=hh.ru  125   11.511541299987584
+2022-11-28 01:41:43,689 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:43,689 INFO ('72893191', 'https://api.hh.ru/vacancies/72893191?host=hh.ru ')
+2022-11-28 01:41:43,689 INFO https://api.hh.ru/vacancies/72893191?host=hh.ru  126   11.585028100002091
+2022-11-28 01:41:43,759 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:43,759 INFO ('72144205', 'https://api.hh.ru/vacancies/72144205?host=hh.ru ')
+2022-11-28 01:41:43,759 INFO https://api.hh.ru/vacancies/72144205?host=hh.ru  127   11.654422799998429
+2022-11-28 01:41:44,043 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:44,043 INFO ('72706026', 'https://api.hh.ru/vacancies/72706026?host=hh.ru ')
+2022-11-28 01:41:44,043 INFO https://api.hh.ru/vacancies/72706026?host=hh.ru  128   11.937762899964582
+2022-11-28 01:41:44,110 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:44,110 INFO ('69533213', 'https://api.hh.ru/vacancies/69533213?host=hh.ru ')
+2022-11-28 01:41:44,110 INFO https://api.hh.ru/vacancies/69533213?host=hh.ru  129   12.005055899964646
+2022-11-28 01:41:44,176 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:44,176 INFO ('71787439', 'https://api.hh.ru/vacancies/71787439?host=hh.ru ')
+2022-11-28 01:41:44,176 INFO https://api.hh.ru/vacancies/71787439?host=hh.ru  130   12.07084279996343
+2022-11-28 01:41:44,266 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:44,266 INFO ('71982879', 'https://api.hh.ru/vacancies/71982879?host=hh.ru ')
+2022-11-28 01:41:44,266 INFO https://api.hh.ru/vacancies/71982879?host=hh.ru  131   12.16094669996528
+2022-11-28 01:41:44,363 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:44,363 INFO ('72706096', 'https://api.hh.ru/vacancies/72706096?host=hh.ru ')
+2022-11-28 01:41:44,363 INFO https://api.hh.ru/vacancies/72706096?host=hh.ru  132   12.257825899985619
+2022-11-28 01:41:44,428 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:44,428 INFO ('72566461', 'https://api.hh.ru/vacancies/72566461?host=hh.ru ')
+2022-11-28 01:41:44,428 INFO https://api.hh.ru/vacancies/72566461?host=hh.ru  133   12.324096800002735
+2022-11-28 01:41:44,509 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:44,511 INFO ('72566710', 'https://api.hh.ru/vacancies/72566710?host=hh.ru ')
+2022-11-28 01:41:44,511 INFO https://api.hh.ru/vacancies/72566710?host=hh.ru  134   12.405368399980944
+2022-11-28 01:41:44,605 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:44,605 INFO ('72144206', 'https://api.hh.ru/vacancies/72144206?host=hh.ru ')
+2022-11-28 01:41:44,605 INFO https://api.hh.ru/vacancies/72144206?host=hh.ru  135   12.500484999967739
+2022-11-28 01:41:44,700 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:44,700 INFO ('72566704', 'https://api.hh.ru/vacancies/72566704?host=hh.ru ')
+2022-11-28 01:41:44,700 INFO https://api.hh.ru/vacancies/72566704?host=hh.ru  136   12.595667499990668
+2022-11-28 01:41:44,769 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:44,769 INFO ('72566324', 'https://api.hh.ru/vacancies/72566324?host=hh.ru ')
+2022-11-28 01:41:44,769 INFO https://api.hh.ru/vacancies/72566324?host=hh.ru  137   12.665094199997839
+2022-11-28 01:41:44,904 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:44,904 INFO ('72978411', 'https://api.hh.ru/vacancies/72978411?host=hh.ru ')
+2022-11-28 01:41:44,905 INFO https://api.hh.ru/vacancies/72978411?host=hh.ru  138   12.79942850000225
+2022-11-28 01:41:45,266 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:45,266 INFO ('69582249', 'https://api.hh.ru/vacancies/69582249?host=hh.ru ')
+2022-11-28 01:41:45,266 INFO https://api.hh.ru/vacancies/69582249?host=hh.ru  139   13.161360699974466
+2022-11-28 01:41:45,435 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:45,435 INFO ('72993256', 'https://api.hh.ru/vacancies/72993256?host=hh.ru ')
+2022-11-28 01:41:45,435 INFO https://api.hh.ru/vacancies/72993256?host=hh.ru  140   13.331068500003312
+2022-11-28 01:41:45,510 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:45,510 INFO ('72993000', 'https://api.hh.ru/vacancies/72993000?host=hh.ru ')
+2022-11-28 01:41:45,510 INFO https://api.hh.ru/vacancies/72993000?host=hh.ru  141   13.405506499984767
+2022-11-28 01:41:45,629 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:45,629 INFO ('72566325', 'https://api.hh.ru/vacancies/72566325?host=hh.ru ')
+2022-11-28 01:41:45,629 INFO https://api.hh.ru/vacancies/72566325?host=hh.ru  142   13.524446399998851
+2022-11-28 01:41:45,726 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:45,726 INFO ('71787010', 'https://api.hh.ru/vacancies/71787010?host=hh.ru ')
+2022-11-28 01:41:45,726 INFO https://api.hh.ru/vacancies/71787010?host=hh.ru  143   13.62116340000648
+2022-11-28 01:41:45,797 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:45,797 INFO ('71701891', 'https://api.hh.ru/vacancies/71701891?host=hh.ru ')
+2022-11-28 01:41:45,797 INFO https://api.hh.ru/vacancies/71701891?host=hh.ru  144   13.692341799964197
+2022-11-28 01:41:45,867 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:45,867 INFO ('70763278', 'https://api.hh.ru/vacancies/70763278?host=hh.ru ')
+2022-11-28 01:41:45,867 INFO https://api.hh.ru/vacancies/70763278?host=hh.ru  145   13.762866300006863
+2022-11-28 01:41:45,967 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:45,967 INFO ('72143889', 'https://api.hh.ru/vacancies/72143889?host=hh.ru ')
+2022-11-28 01:41:45,967 INFO https://api.hh.ru/vacancies/72143889?host=hh.ru  146   13.862378899997566
+2022-11-28 01:41:46,057 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:46,057 INFO ('71873739', 'https://api.hh.ru/vacancies/71873739?host=hh.ru ')
+2022-11-28 01:41:46,057 INFO https://api.hh.ru/vacancies/71873739?host=hh.ru  147   13.95285070000682
+2022-11-28 01:41:46,149 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:46,149 INFO ('72992931', 'https://api.hh.ru/vacancies/72992931?host=hh.ru ')
+2022-11-28 01:41:46,149 INFO https://api.hh.ru/vacancies/72992931?host=hh.ru  148   14.043893299996853
+2022-11-28 01:41:46,239 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:46,240 INFO ('72992915', 'https://api.hh.ru/vacancies/72992915?host=hh.ru ')
+2022-11-28 01:41:46,240 INFO https://api.hh.ru/vacancies/72992915?host=hh.ru  149   14.134939899959136
+2022-11-28 01:41:46,320 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:46,320 INFO ('72706029', 'https://api.hh.ru/vacancies/72706029?host=hh.ru ')
+2022-11-28 01:41:46,320 INFO https://api.hh.ru/vacancies/72706029?host=hh.ru  150   14.214693399961106
+2022-11-28 01:41:46,404 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:46,404 INFO ('71786764', 'https://api.hh.ru/vacancies/71786764?host=hh.ru ')
+2022-11-28 01:41:46,405 INFO https://api.hh.ru/vacancies/71786764?host=hh.ru  151   14.299357699987013
+2022-11-28 01:41:46,482 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:46,483 INFO ('71787193', 'https://api.hh.ru/vacancies/71787193?host=hh.ru ')
+2022-11-28 01:41:46,483 INFO https://api.hh.ru/vacancies/71787193?host=hh.ru  152   14.377623200009111
+2022-11-28 01:41:46,558 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:46,558 INFO ('72706048', 'https://api.hh.ru/vacancies/72706048?host=hh.ru ')
+2022-11-28 01:41:46,558 INFO https://api.hh.ru/vacancies/72706048?host=hh.ru  153   14.45328239997616
+2022-11-28 01:41:46,662 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:46,662 INFO ('72566738', 'https://api.hh.ru/vacancies/72566738?host=hh.ru ')
+2022-11-28 01:41:46,662 INFO https://api.hh.ru/vacancies/72566738?host=hh.ru  154   14.559180999989621
+2022-11-28 01:41:46,736 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:46,736 INFO ('71787116', 'https://api.hh.ru/vacancies/71787116?host=hh.ru ')
+2022-11-28 01:41:46,736 INFO https://api.hh.ru/vacancies/71787116?host=hh.ru  155   14.640211599995382
+2022-11-28 01:41:46,836 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:46,836 INFO ('72378055', 'https://api.hh.ru/vacancies/72378055?host=hh.ru ')
+2022-11-28 01:41:46,836 INFO https://api.hh.ru/vacancies/72378055?host=hh.ru  156   14.734121999994386
+2022-11-28 01:41:46,931 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:46,931 INFO ('72992585', 'https://api.hh.ru/vacancies/72992585?host=hh.ru ')
+2022-11-28 01:41:46,931 INFO https://api.hh.ru/vacancies/72992585?host=hh.ru  157   14.825729999982286
+2022-11-28 01:41:47,018 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:47,018 INFO ('71787272', 'https://api.hh.ru/vacancies/71787272?host=hh.ru ')
+2022-11-28 01:41:47,018 INFO https://api.hh.ru/vacancies/71787272?host=hh.ru  158   14.922131199971773
+2022-11-28 01:41:47,112 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:47,112 INFO ('72992909', 'https://api.hh.ru/vacancies/72992909?host=hh.ru ')
+2022-11-28 01:41:47,112 INFO https://api.hh.ru/vacancies/72992909?host=hh.ru  159   15.01044029998593
+2022-11-28 01:41:47,192 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:47,192 INFO ('72257469', 'https://api.hh.ru/vacancies/72257469?host=hh.ru ')
+2022-11-28 01:41:47,192 INFO https://api.hh.ru/vacancies/72257469?host=hh.ru  160   15.100176999985706
+2022-11-28 01:41:47,317 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:47,317 INFO ('72143777', 'https://api.hh.ru/vacancies/72143777?host=hh.ru ')
+2022-11-28 01:41:47,317 INFO https://api.hh.ru/vacancies/72143777?host=hh.ru  161   15.212261000007857
+2022-11-28 01:41:47,456 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:47,456 INFO ('72704394', 'https://api.hh.ru/vacancies/72704394?host=hh.ru ')
+2022-11-28 01:41:47,456 INFO https://api.hh.ru/vacancies/72704394?host=hh.ru  162   15.351482099969871
+2022-11-28 01:41:47,528 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:47,528 INFO ('72893193', 'https://api.hh.ru/vacancies/72893193?host=hh.ru ')
+2022-11-28 01:41:47,528 INFO https://api.hh.ru/vacancies/72893193?host=hh.ru  163   15.423352199955843
+2022-11-28 01:41:47,593 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:47,593 INFO ('71648273', 'https://api.hh.ru/vacancies/71648273?host=hh.ru ')
+2022-11-28 01:41:47,593 INFO https://api.hh.ru/vacancies/71648273?host=hh.ru  164   15.488247199973557
+2022-11-28 01:41:47,689 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:47,689 INFO ('72893241', 'https://api.hh.ru/vacancies/72893241?host=hh.ru ')
+2022-11-28 01:41:47,689 INFO https://api.hh.ru/vacancies/72893241?host=hh.ru  165   15.584035499952734
+2022-11-28 01:41:47,767 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:47,767 INFO ('72376944', 'https://api.hh.ru/vacancies/72376944?host=hh.ru ')
+2022-11-28 01:41:47,767 INFO https://api.hh.ru/vacancies/72376944?host=hh.ru  166   15.661714799993206
+2022-11-28 01:41:47,860 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:47,860 INFO ('72143856', 'https://api.hh.ru/vacancies/72143856?host=hh.ru ')
+2022-11-28 01:41:47,860 INFO https://api.hh.ru/vacancies/72143856?host=hh.ru  167   15.755244500003755
+2022-11-28 01:41:47,925 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:47,925 INFO ('72992170', 'https://api.hh.ru/vacancies/72992170?host=hh.ru ')
+2022-11-28 01:41:47,925 INFO https://api.hh.ru/vacancies/72992170?host=hh.ru  168   15.831682399963029
+2022-11-28 01:41:48,032 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:48,032 INFO ('71786990', 'https://api.hh.ru/vacancies/71786990?host=hh.ru ')
+2022-11-28 01:41:48,032 INFO https://api.hh.ru/vacancies/71786990?host=hh.ru  169   15.932759399991482
+2022-11-28 01:41:48,168 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:48,169 INFO ('72890721', 'https://api.hh.ru/vacancies/72890721?host=hh.ru ')
+2022-11-28 01:41:48,169 INFO https://api.hh.ru/vacancies/72890721?host=hh.ru  170   16.063826499972492
+2022-11-28 01:41:48,255 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:48,255 INFO ('72893043', 'https://api.hh.ru/vacancies/72893043?host=hh.ru ')
+2022-11-28 01:41:48,255 INFO https://api.hh.ru/vacancies/72893043?host=hh.ru  171   16.149974300002214
+2022-11-28 01:41:48,355 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:48,355 INFO ('72992338', 'https://api.hh.ru/vacancies/72992338?host=hh.ru ')
+2022-11-28 01:41:48,355 INFO https://api.hh.ru/vacancies/72992338?host=hh.ru  172   16.249876799993217
+2022-11-28 01:41:48,457 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:48,457 INFO ('72993059', 'https://api.hh.ru/vacancies/72993059?host=hh.ru ')
+2022-11-28 01:41:48,457 INFO https://api.hh.ru/vacancies/72993059?host=hh.ru  173   16.35203269997146
+2022-11-28 01:41:48,544 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:48,544 INFO ('72705124', 'https://api.hh.ru/vacancies/72705124?host=hh.ru ')
+2022-11-28 01:41:48,544 INFO https://api.hh.ru/vacancies/72705124?host=hh.ru  174   16.43922889995156
+2022-11-28 01:41:48,647 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:48,647 INFO ('72893262', 'https://api.hh.ru/vacancies/72893262?host=hh.ru ')
+2022-11-28 01:41:48,647 INFO https://api.hh.ru/vacancies/72893262?host=hh.ru  175   16.542398499965202
+2022-11-28 01:41:48,769 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:48,769 INFO ('72565249', 'https://api.hh.ru/vacancies/72565249?host=hh.ru ')
+2022-11-28 01:41:48,769 INFO https://api.hh.ru/vacancies/72565249?host=hh.ru  176   16.664569299959112
+2022-11-28 01:41:48,853 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:48,853 INFO ('71786988', 'https://api.hh.ru/vacancies/71786988?host=hh.ru ')
+2022-11-28 01:41:48,853 INFO https://api.hh.ru/vacancies/71786988?host=hh.ru  177   16.74856079998426
+2022-11-28 01:41:48,947 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:48,947 INFO ('72704495', 'https://api.hh.ru/vacancies/72704495?host=hh.ru ')
+2022-11-28 01:41:48,947 INFO https://api.hh.ru/vacancies/72704495?host=hh.ru  178   16.841638699988835
+2022-11-28 01:41:49,022 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:49,023 INFO ('71939368', 'https://api.hh.ru/vacancies/71939368?host=hh.ru ')
+2022-11-28 01:41:49,023 INFO https://api.hh.ru/vacancies/71939368?host=hh.ru  179   16.91791869996814
+2022-11-28 01:41:49,094 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:49,095 INFO ('72704417', 'https://api.hh.ru/vacancies/72704417?host=hh.ru ')
+2022-11-28 01:41:49,095 INFO https://api.hh.ru/vacancies/72704417?host=hh.ru  180   16.9899327000021
+2022-11-28 01:41:49,168 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:49,169 INFO ('72143778', 'https://api.hh.ru/vacancies/72143778?host=hh.ru ')
+2022-11-28 01:41:49,169 INFO https://api.hh.ru/vacancies/72143778?host=hh.ru  181   17.0639648999786
+2022-11-28 01:41:49,239 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:49,239 INFO ('72890592', 'https://api.hh.ru/vacancies/72890592?host=hh.ru ')
+2022-11-28 01:41:49,239 INFO https://api.hh.ru/vacancies/72890592?host=hh.ru  182   17.134403500007465
+2022-11-28 01:41:49,313 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:49,313 INFO ('72037569', 'https://api.hh.ru/vacancies/72037569?host=hh.ru ')
+2022-11-28 01:41:49,314 INFO https://api.hh.ru/vacancies/72037569?host=hh.ru  183   17.209103100001812
+2022-11-28 01:41:49,424 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:49,424 INFO ('72704476', 'https://api.hh.ru/vacancies/72704476?host=hh.ru ')
+2022-11-28 01:41:49,424 INFO https://api.hh.ru/vacancies/72704476?host=hh.ru  184   17.31889890000457
+2022-11-28 01:41:49,517 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:49,518 INFO ('71787290', 'https://api.hh.ru/vacancies/71787290?host=hh.ru ')
+2022-11-28 01:41:49,518 INFO https://api.hh.ru/vacancies/71787290?host=hh.ru  185   17.41320219996851
+2022-11-28 01:41:49,661 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:49,661 INFO ('72377358', 'https://api.hh.ru/vacancies/72377358?host=hh.ru ')
+2022-11-28 01:41:49,661 INFO https://api.hh.ru/vacancies/72377358?host=hh.ru  186   17.556972899998073
+2022-11-28 01:41:49,734 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:49,735 INFO ('50771311', 'https://api.hh.ru/vacancies/50771311?host=hh.ru ')
+2022-11-28 01:41:49,735 INFO https://api.hh.ru/vacancies/50771311?host=hh.ru  187   17.629602600005455
+2022-11-28 01:41:49,801 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:49,801 INFO ('72991998', 'https://api.hh.ru/vacancies/72991998?host=hh.ru ')
+2022-11-28 01:41:49,801 INFO https://api.hh.ru/vacancies/72991998?host=hh.ru  188   17.702031199994963
+2022-11-28 01:41:49,967 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:49,968 INFO ('71787555', 'https://api.hh.ru/vacancies/71787555?host=hh.ru ')
+2022-11-28 01:41:49,968 INFO https://api.hh.ru/vacancies/71787555?host=hh.ru  189   17.863251800008584
+2022-11-28 01:41:50,065 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:50,065 INFO ('70712577', 'https://api.hh.ru/vacancies/70712577?host=hh.ru ')
+2022-11-28 01:41:50,065 INFO https://api.hh.ru/vacancies/70712577?host=hh.ru  190   17.96233629999915
+2022-11-28 01:41:50,134 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:50,135 INFO ('72143893', 'https://api.hh.ru/vacancies/72143893?host=hh.ru ')
+2022-11-28 01:41:50,135 INFO https://api.hh.ru/vacancies/72143893?host=hh.ru  191   18.030025899992324
+2022-11-28 01:41:50,197 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:50,197 INFO ('72891123', 'https://api.hh.ru/vacancies/72891123?host=hh.ru ')
+2022-11-28 01:41:50,197 INFO https://api.hh.ru/vacancies/72891123?host=hh.ru  192   18.104895900003612
+2022-11-28 01:41:50,305 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:50,305 INFO ('71786987', 'https://api.hh.ru/vacancies/71786987?host=hh.ru ')
+2022-11-28 01:41:50,305 INFO https://api.hh.ru/vacancies/71786987?host=hh.ru  193   18.202704900002573
+2022-11-28 01:41:50,368 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:50,368 INFO ('72890723', 'https://api.hh.ru/vacancies/72890723?host=hh.ru ')
+2022-11-28 01:41:50,368 INFO https://api.hh.ru/vacancies/72890723?host=hh.ru  194   18.267817199986894
+2022-11-28 01:41:50,446 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:50,446 INFO ('71787285', 'https://api.hh.ru/vacancies/71787285?host=hh.ru ')
+2022-11-28 01:41:50,446 INFO https://api.hh.ru/vacancies/71787285?host=hh.ru  195   18.35031730000628
+2022-11-28 01:41:50,509 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:50,509 INFO ('71787247', 'https://api.hh.ru/vacancies/71787247?host=hh.ru ')
+2022-11-28 01:41:50,509 INFO https://api.hh.ru/vacancies/71787247?host=hh.ru  196   18.418463799986057
+2022-11-28 01:41:50,768 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:50,768 INFO ('71938854', 'https://api.hh.ru/vacancies/71938854?host=hh.ru ')
+2022-11-28 01:41:50,768 INFO https://api.hh.ru/vacancies/71938854?host=hh.ru  197   18.664078300003894
+2022-11-28 01:41:50,844 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:50,844 INFO ('72893019', 'https://api.hh.ru/vacancies/72893019?host=hh.ru ')
+2022-11-28 01:41:50,844 INFO https://api.hh.ru/vacancies/72893019?host=hh.ru  198   18.751768499962054
+2022-11-28 01:41:50,922 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:50,922 INFO ('72565746', 'https://api.hh.ru/vacancies/72565746?host=hh.ru ')
+2022-11-28 01:41:50,922 INFO https://api.hh.ru/vacancies/72565746?host=hh.ru  199   18.829471500008367
+2022-11-28 01:41:51,031 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:51,031 INFO ('71452348', 'https://api.hh.ru/vacancies/71452348?host=hh.ru ')
+2022-11-28 01:41:51,031 INFO https://api.hh.ru/vacancies/71452348?host=hh.ru  200   18.927245099970605
+2022-11-28 01:41:51,094 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:51,094 INFO ('72377135', 'https://api.hh.ru/vacancies/72377135?host=hh.ru ')
+2022-11-28 01:41:51,094 INFO https://api.hh.ru/vacancies/72377135?host=hh.ru  201   18.99792679998791
+2022-11-28 01:41:51,203 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:51,203 INFO ('72992911', 'https://api.hh.ru/vacancies/72992911?host=hh.ru ')
+2022-11-28 01:41:51,203 INFO https://api.hh.ru/vacancies/72992911?host=hh.ru  202   19.105855999980122
+2022-11-28 01:41:51,281 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:51,281 INFO ('72143176', 'https://api.hh.ru/vacancies/72143176?host=hh.ru ')
+2022-11-28 01:41:51,281 INFO https://api.hh.ru/vacancies/72143176?host=hh.ru  203   19.190591099963058
+2022-11-28 01:41:51,422 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:51,422 INFO ('72706092', 'https://api.hh.ru/vacancies/72706092?host=hh.ru ')
+2022-11-28 01:41:51,422 INFO https://api.hh.ru/vacancies/72706092?host=hh.ru  204   19.320650399953593
+2022-11-28 01:41:51,516 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:51,516 INFO ('72377404', 'https://api.hh.ru/vacancies/72377404?host=hh.ru ')
+2022-11-28 01:41:51,516 INFO https://api.hh.ru/vacancies/72377404?host=hh.ru  205   19.415767600003164
+2022-11-28 01:41:51,625 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:51,625 INFO ('72992579', 'https://api.hh.ru/vacancies/72992579?host=hh.ru ')
+2022-11-28 01:41:51,625 INFO https://api.hh.ru/vacancies/72992579?host=hh.ru  206   19.529457799973898
+2022-11-28 01:41:51,703 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:51,703 INFO ('66843031', 'https://api.hh.ru/vacancies/66843031?host=hh.ru ')
+2022-11-28 01:41:51,703 INFO https://api.hh.ru/vacancies/66843031?host=hh.ru  207   19.612388299952727
+2022-11-28 01:41:51,807 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:51,807 INFO ('72377828', 'https://api.hh.ru/vacancies/72377828?host=hh.ru ')
+2022-11-28 01:41:51,807 INFO https://api.hh.ru/vacancies/72377828?host=hh.ru  208   19.70168369996827
+2022-11-28 01:41:51,882 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:51,882 INFO ('72992169', 'https://api.hh.ru/vacancies/72992169?host=hh.ru ')
+2022-11-28 01:41:51,882 INFO https://api.hh.ru/vacancies/72992169?host=hh.ru  209   19.777803000004496
+2022-11-28 01:41:51,945 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:51,945 INFO ('71787404', 'https://api.hh.ru/vacancies/71787404?host=hh.ru ')
+2022-11-28 01:41:51,945 INFO https://api.hh.ru/vacancies/71787404?host=hh.ru  210   19.850601099955384
+2022-11-28 01:41:52,023 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:52,023 INFO ('67662519', 'https://api.hh.ru/vacancies/67662519?host=hh.ru ')
+2022-11-28 01:41:52,023 INFO https://api.hh.ru/vacancies/67662519?host=hh.ru  211   19.92265139997471
+2022-11-28 01:41:52,085 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:52,085 INFO ('51967168', 'https://api.hh.ru/vacancies/51967168?host=hh.ru ')
+2022-11-28 01:41:52,085 INFO https://api.hh.ru/vacancies/51967168?host=hh.ru  212   19.992104100005236
+2022-11-28 01:41:52,179 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:52,179 INFO ('72992557', 'https://api.hh.ru/vacancies/72992557?host=hh.ru ')
+2022-11-28 01:41:52,179 INFO https://api.hh.ru/vacancies/72992557?host=hh.ru  213   20.074976400006562
+2022-11-28 01:41:52,257 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:52,257 INFO ('71787502', 'https://api.hh.ru/vacancies/71787502?host=hh.ru ')
+2022-11-28 01:41:52,257 INFO https://api.hh.ru/vacancies/71787502?host=hh.ru  214   20.16156509995926
+2022-11-28 01:41:52,398 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:52,398 INFO ('72992172', 'https://api.hh.ru/vacancies/72992172?host=hh.ru ')
+2022-11-28 01:41:52,398 INFO https://api.hh.ru/vacancies/72992172?host=hh.ru  215   20.293352200009394
+2022-11-28 01:41:52,492 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:52,492 INFO ('72377177', 'https://api.hh.ru/vacancies/72377177?host=hh.ru ')
+2022-11-28 01:41:52,492 INFO https://api.hh.ru/vacancies/72377177?host=hh.ru  216   20.387212799978442
+2022-11-28 01:41:52,570 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:52,570 INFO ('71786813', 'https://api.hh.ru/vacancies/71786813?host=hh.ru ')
+2022-11-28 01:41:52,570 INFO https://api.hh.ru/vacancies/71786813?host=hh.ru  217   20.47532579995459
+2022-11-28 01:41:52,663 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:52,663 INFO ('67569121', 'https://api.hh.ru/vacancies/67569121?host=hh.ru ')
+2022-11-28 01:41:52,663 INFO https://api.hh.ru/vacancies/67569121?host=hh.ru  218   20.56020000000717
+2022-11-28 01:41:52,746 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:52,746 INFO ('70996248', 'https://api.hh.ru/vacancies/70996248?host=hh.ru ')
+2022-11-28 01:41:52,746 INFO https://api.hh.ru/vacancies/70996248?host=hh.ru  219   20.641004899982363
+2022-11-28 01:41:52,808 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:52,808 INFO ('71263286', 'https://api.hh.ru/vacancies/71263286?host=hh.ru ')
+2022-11-28 01:41:52,808 INFO https://api.hh.ru/vacancies/71263286?host=hh.ru  220   20.70654210000066
+2022-11-28 01:41:52,871 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:52,871 INFO ('71786208', 'https://api.hh.ru/vacancies/71786208?host=hh.ru ')
+2022-11-28 01:41:52,871 INFO https://api.hh.ru/vacancies/71786208?host=hh.ru  221   20.773882899957243
+2022-11-28 01:41:52,949 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:52,949 INFO ('72890722', 'https://api.hh.ru/vacancies/72890722?host=hh.ru ')
+2022-11-28 01:41:52,949 INFO https://api.hh.ru/vacancies/72890722?host=hh.ru  222   20.851362899993546
+2022-11-28 01:41:53,043 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:53,043 INFO ('71939165', 'https://api.hh.ru/vacancies/71939165?host=hh.ru ')
+2022-11-28 01:41:53,043 INFO https://api.hh.ru/vacancies/71939165?host=hh.ru  223   20.94287379999878
+2022-11-28 01:41:53,105 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:53,105 INFO ('72991827', 'https://api.hh.ru/vacancies/72991827?host=hh.ru ')
+2022-11-28 01:41:53,105 INFO https://api.hh.ru/vacancies/72991827?host=hh.ru  224   21.003051699954085
+2022-11-28 01:41:53,199 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:53,199 INFO ('72378043', 'https://api.hh.ru/vacancies/72378043?host=hh.ru ')
+2022-11-28 01:41:53,199 INFO https://api.hh.ru/vacancies/72378043?host=hh.ru  225   21.096907400002237
+2022-11-28 01:41:53,293 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:53,293 INFO ('72992334', 'https://api.hh.ru/vacancies/72992334?host=hh.ru ')
+2022-11-28 01:41:53,293 INFO https://api.hh.ru/vacancies/72992334?host=hh.ru  226   21.189946400001645
+2022-11-28 01:41:53,355 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:53,355 INFO ('68326426', 'https://api.hh.ru/vacancies/68326426?host=hh.ru ')
+2022-11-28 01:41:53,355 INFO https://api.hh.ru/vacancies/68326426?host=hh.ru  227   21.26358979998622
+2022-11-28 01:41:53,433 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:53,433 INFO ('71187977', 'https://api.hh.ru/vacancies/71187977?host=hh.ru ')
+2022-11-28 01:41:53,433 INFO https://api.hh.ru/vacancies/71187977?host=hh.ru  228   21.338053299987223
+2022-11-28 01:41:53,538 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:53,538 INFO ('68935467', 'https://api.hh.ru/vacancies/68935467?host=hh.ru ')
+2022-11-28 01:41:53,538 INFO https://api.hh.ru/vacancies/68935467?host=hh.ru  229   21.433567099971697
+2022-11-28 01:41:53,632 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:53,632 INFO ('72256869', 'https://api.hh.ru/vacancies/72256869?host=hh.ru ')
+2022-11-28 01:41:53,632 INFO https://api.hh.ru/vacancies/72256869?host=hh.ru  230   21.537935099971946
+2022-11-28 01:41:53,710 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:53,710 INFO ('71786989', 'https://api.hh.ru/vacancies/71786989?host=hh.ru ')
+2022-11-28 01:41:53,710 INFO https://api.hh.ru/vacancies/71786989?host=hh.ru  231   21.609520400001202
+2022-11-28 01:41:53,785 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:53,786 INFO ('72565713', 'https://api.hh.ru/vacancies/72565713?host=hh.ru ')
+2022-11-28 01:41:53,786 INFO https://api.hh.ru/vacancies/72565713?host=hh.ru  232   21.681173099961597
+2022-11-28 01:41:53,855 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:53,855 INFO ('71787765', 'https://api.hh.ru/vacancies/71787765?host=hh.ru ')
+2022-11-28 01:41:53,855 INFO https://api.hh.ru/vacancies/71787765?host=hh.ru  233   21.75747259997297
+2022-11-28 01:41:53,980 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:53,980 INFO ('72891348', 'https://api.hh.ru/vacancies/72891348?host=hh.ru ')
+2022-11-28 01:41:53,980 INFO https://api.hh.ru/vacancies/72891348?host=hh.ru  234   21.87826819997281
+2022-11-28 01:41:54,090 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:54,090 INFO ('72063299', 'https://api.hh.ru/vacancies/72063299?host=hh.ru ')
+2022-11-28 01:41:54,090 INFO https://api.hh.ru/vacancies/72063299?host=hh.ru  235   21.98475189995952
+2022-11-28 01:41:54,152 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:54,152 INFO ('66523721', 'https://api.hh.ru/vacancies/66523721?host=hh.ru ')
+2022-11-28 01:41:54,152 INFO https://api.hh.ru/vacancies/66523721?host=hh.ru  236   22.057575699989684
+2022-11-28 01:41:54,246 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:54,246 INFO ('71787595', 'https://api.hh.ru/vacancies/71787595?host=hh.ru ')
+2022-11-28 01:41:54,246 INFO https://api.hh.ru/vacancies/71787595?host=hh.ru  237   22.15043959999457
+2022-11-28 01:41:54,324 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:54,324 INFO ('71982254', 'https://api.hh.ru/vacancies/71982254?host=hh.ru ')
+2022-11-28 01:41:54,324 INFO https://api.hh.ru/vacancies/71982254?host=hh.ru  238   22.22508070000913
+2022-11-28 01:41:54,402 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:54,402 INFO ('71983176', 'https://api.hh.ru/vacancies/71983176?host=hh.ru ')
+2022-11-28 01:41:54,402 INFO https://api.hh.ru/vacancies/71983176?host=hh.ru  239   22.30419769999571
+2022-11-28 01:41:54,480 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:54,480 INFO ('71786200', 'https://api.hh.ru/vacancies/71786200?host=hh.ru ')
+2022-11-28 01:41:54,480 INFO https://api.hh.ru/vacancies/71786200?host=hh.ru  240   22.381695099989884
+2022-11-28 01:41:54,597 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:54,597 INFO ('72144177', 'https://api.hh.ru/vacancies/72144177?host=hh.ru ')
+2022-11-28 01:41:54,597 INFO https://api.hh.ru/vacancies/72144177?host=hh.ru  241   22.50052770000184
+2022-11-28 01:41:54,659 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:54,659 INFO ('71938740', 'https://api.hh.ru/vacancies/71938740?host=hh.ru ')
+2022-11-28 01:41:54,659 INFO https://api.hh.ru/vacancies/71938740?host=hh.ru  242   22.56836909998674
+2022-11-28 01:41:54,776 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:54,776 INFO ('71939145', 'https://api.hh.ru/vacancies/71939145?host=hh.ru ')
+2022-11-28 01:41:54,776 INFO https://api.hh.ru/vacancies/71939145?host=hh.ru  243   22.670756099978462
+2022-11-28 01:41:54,839 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:54,839 INFO ('70537862', 'https://api.hh.ru/vacancies/70537862?host=hh.ru ')
+2022-11-28 01:41:54,839 INFO https://api.hh.ru/vacancies/70537862?host=hh.ru  244   22.748401699995156
+2022-11-28 01:41:55,011 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:55,011 INFO ('72378087', 'https://api.hh.ru/vacancies/72378087?host=hh.ru ')
+2022-11-28 01:41:55,011 INFO https://api.hh.ru/vacancies/72378087?host=hh.ru  245   22.918950099963695
+2022-11-28 01:41:55,089 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:55,089 INFO ('69255172', 'https://api.hh.ru/vacancies/69255172?host=hh.ru ')
+2022-11-28 01:41:55,089 INFO https://api.hh.ru/vacancies/69255172?host=hh.ru  246   22.997465599968564
+2022-11-28 01:41:55,167 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:55,167 INFO ('71787496', 'https://api.hh.ru/vacancies/71787496?host=hh.ru ')
+2022-11-28 01:41:55,167 INFO https://api.hh.ru/vacancies/71787496?host=hh.ru  247   23.073056099994574
+2022-11-28 01:41:55,276 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:55,276 INFO ('72992165', 'https://api.hh.ru/vacancies/72992165?host=hh.ru ')
+2022-11-28 01:41:55,276 INFO https://api.hh.ru/vacancies/72992165?host=hh.ru  248   23.178949299966916
+2022-11-28 01:41:55,355 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:55,355 INFO ('70485913', 'https://api.hh.ru/vacancies/70485913?host=hh.ru ')
+2022-11-28 01:41:55,355 INFO https://api.hh.ru/vacancies/70485913?host=hh.ru  249   23.25275759998476
+2022-11-28 01:41:55,433 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:55,433 INFO ('69631462', 'https://api.hh.ru/vacancies/69631462?host=hh.ru ')
+2022-11-28 01:41:55,433 INFO https://api.hh.ru/vacancies/69631462?host=hh.ru  250   23.339833199977875
+2022-11-28 01:41:55,589 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:55,589 INFO ('72144223', 'https://api.hh.ru/vacancies/72144223?host=hh.ru ')
+2022-11-28 01:41:55,589 INFO https://api.hh.ru/vacancies/72144223?host=hh.ru  251   23.494529699964914
+2022-11-28 01:41:55,667 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:55,667 INFO ('71787769', 'https://api.hh.ru/vacancies/71787769?host=hh.ru ')
+2022-11-28 01:41:55,667 INFO https://api.hh.ru/vacancies/71787769?host=hh.ru  252   23.570159599999897
+2022-11-28 01:41:55,798 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:55,798 INFO ('72992166', 'https://api.hh.ru/vacancies/72992166?host=hh.ru ')
+2022-11-28 01:41:55,798 INFO https://api.hh.ru/vacancies/72992166?host=hh.ru  253   23.69313939998392
+2022-11-28 01:41:55,957 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:55,958 INFO ('70916516', 'https://api.hh.ru/vacancies/70916516?host=hh.ru ')
+2022-11-28 01:41:55,958 INFO https://api.hh.ru/vacancies/70916516?host=hh.ru  254   23.85322200000519
+2022-11-28 01:41:56,024 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:56,024 INFO ('50687172', 'https://api.hh.ru/vacancies/50687172?host=hh.ru ')
+2022-11-28 01:41:56,024 INFO https://api.hh.ru/vacancies/50687172?host=hh.ru  255   23.9188051999663
+2022-11-28 01:41:56,098 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:56,098 INFO ('72144213', 'https://api.hh.ru/vacancies/72144213?host=hh.ru ')
+2022-11-28 01:41:56,098 INFO https://api.hh.ru/vacancies/72144213?host=hh.ru  256   23.993900000001304
+2022-11-28 01:41:56,204 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:56,204 INFO ('72893273', 'https://api.hh.ru/vacancies/72893273?host=hh.ru ')
+2022-11-28 01:41:56,204 INFO https://api.hh.ru/vacancies/72893273?host=hh.ru  257   24.099095899960957
+2022-11-28 01:41:56,333 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:56,334 INFO ('72376946', 'https://api.hh.ru/vacancies/72376946?host=hh.ru ')
+2022-11-28 01:41:56,334 INFO https://api.hh.ru/vacancies/72376946?host=hh.ru  258   24.228476499964017
+2022-11-28 01:41:56,482 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:56,482 INFO ('71042538', 'https://api.hh.ru/vacancies/71042538?host=hh.ru ')
+2022-11-28 01:41:56,482 INFO https://api.hh.ru/vacancies/71042538?host=hh.ru  259   24.37721879995661
+2022-11-28 01:41:56,593 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:56,593 INFO ('72992070', 'https://api.hh.ru/vacancies/72992070?host=hh.ru ')
+2022-11-28 01:41:56,593 INFO https://api.hh.ru/vacancies/72992070?host=hh.ru  260   24.4885290999664
+2022-11-28 01:41:56,675 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:56,675 INFO ('71811469', 'https://api.hh.ru/vacancies/71811469?host=hh.ru ')
+2022-11-28 01:41:56,675 INFO https://api.hh.ru/vacancies/71811469?host=hh.ru  261   24.569964299967978
+2022-11-28 01:41:56,809 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:56,809 INFO ('71719431', 'https://api.hh.ru/vacancies/71719431?host=hh.ru ')
+2022-11-28 01:41:56,809 INFO https://api.hh.ru/vacancies/71719431?host=hh.ru  262   24.704609699954744
+2022-11-28 01:41:56,913 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:56,913 INFO ('72893267', 'https://api.hh.ru/vacancies/72893267?host=hh.ru ')
+2022-11-28 01:41:56,913 INFO https://api.hh.ru/vacancies/72893267?host=hh.ru  263   24.80892079998739
+2022-11-28 01:41:57,028 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:57,028 INFO ('71997578', 'https://api.hh.ru/vacancies/71997578?host=hh.ru ')
+2022-11-28 01:41:57,028 INFO https://api.hh.ru/vacancies/71997578?host=hh.ru  264   24.92370749998372
+2022-11-28 01:41:57,098 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:57,099 INFO ('71787345', 'https://api.hh.ru/vacancies/71787345?host=hh.ru ')
+2022-11-28 01:41:57,099 INFO https://api.hh.ru/vacancies/71787345?host=hh.ru  265   24.994003999978304
+2022-11-28 01:41:57,165 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:57,165 INFO ('71997850', 'https://api.hh.ru/vacancies/71997850?host=hh.ru ')
+2022-11-28 01:41:57,165 INFO https://api.hh.ru/vacancies/71997850?host=hh.ru  266   25.06075529998634
+2022-11-28 01:41:57,290 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:57,291 INFO ('52045708', 'https://api.hh.ru/vacancies/52045708?host=hh.ru ')
+2022-11-28 01:41:57,291 INFO https://api.hh.ru/vacancies/52045708?host=hh.ru  267   25.186049399955664
+2022-11-28 01:41:57,426 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:57,427 INFO ('71999675', 'https://api.hh.ru/vacancies/71999675?host=hh.ru ')
+2022-11-28 01:41:57,427 INFO https://api.hh.ru/vacancies/71999675?host=hh.ru  268   25.32198129995959
+2022-11-28 01:41:57,529 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:57,529 INFO ('55050896', 'https://api.hh.ru/vacancies/55050896?host=hh.ru ')
+2022-11-28 01:41:57,529 INFO https://api.hh.ru/vacancies/55050896?host=hh.ru  269   25.424338999961037
+2022-11-28 01:41:57,612 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:57,612 INFO ('72704111', 'https://api.hh.ru/vacancies/72704111?host=hh.ru ')
+2022-11-28 01:41:57,612 INFO https://api.hh.ru/vacancies/72704111?host=hh.ru  270   25.50730229995679
+2022-11-28 01:41:57,678 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:57,678 INFO ('72256870', 'https://api.hh.ru/vacancies/72256870?host=hh.ru ')
+2022-11-28 01:41:57,678 INFO https://api.hh.ru/vacancies/72256870?host=hh.ru  271   25.5872451000032
+2022-11-28 01:41:57,790 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:57,791 INFO ('72376922', 'https://api.hh.ru/vacancies/72376922?host=hh.ru ')
+2022-11-28 01:41:57,791 INFO https://api.hh.ru/vacancies/72376922?host=hh.ru  272   25.685509799979627
+2022-11-28 01:41:57,868 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:57,869 INFO ('69391725', 'https://api.hh.ru/vacancies/69391725?host=hh.ru ')
+2022-11-28 01:41:57,869 INFO https://api.hh.ru/vacancies/69391725?host=hh.ru  273   25.764057099993806
+2022-11-28 01:41:57,940 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:57,940 INFO ('72377169', 'https://api.hh.ru/vacancies/72377169?host=hh.ru ')
+2022-11-28 01:41:57,940 INFO https://api.hh.ru/vacancies/72377169?host=hh.ru  274   25.835301199986134
+2022-11-28 01:41:58,018 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:58,018 INFO ('72991995', 'https://api.hh.ru/vacancies/72991995?host=hh.ru ')
+2022-11-28 01:41:58,018 INFO https://api.hh.ru/vacancies/72991995?host=hh.ru  275   25.913179599971045
+2022-11-28 01:41:58,107 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:58,107 INFO ('72992162', 'https://api.hh.ru/vacancies/72992162?host=hh.ru ')
+2022-11-28 01:41:58,107 INFO https://api.hh.ru/vacancies/72992162?host=hh.ru  276   26.00189529999625
+2022-11-28 01:41:58,198 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:58,198 INFO ('71786077', 'https://api.hh.ru/vacancies/71786077?host=hh.ru ')
+2022-11-28 01:41:58,198 INFO https://api.hh.ru/vacancies/71786077?host=hh.ru  277   26.093295699974988
+2022-11-28 01:41:58,273 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:58,273 INFO ('72377406', 'https://api.hh.ru/vacancies/72377406?host=hh.ru ')
+2022-11-28 01:41:58,273 INFO https://api.hh.ru/vacancies/72377406?host=hh.ru  278   26.168732499994803
+2022-11-28 01:41:58,375 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:58,375 INFO ('72704449', 'https://api.hh.ru/vacancies/72704449?host=hh.ru ')
+2022-11-28 01:41:58,375 INFO https://api.hh.ru/vacancies/72704449?host=hh.ru  279   26.27063879999332
+2022-11-28 01:41:58,438 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:58,438 INFO ('72704438', 'https://api.hh.ru/vacancies/72704438?host=hh.ru ')
+2022-11-28 01:41:58,438 INFO https://api.hh.ru/vacancies/72704438?host=hh.ru  280   26.33345430000918
+2022-11-28 01:41:58,507 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:58,507 INFO ('72256821', 'https://api.hh.ru/vacancies/72256821?host=hh.ru ')
+2022-11-28 01:41:58,507 INFO https://api.hh.ru/vacancies/72256821?host=hh.ru  281   26.401962300005835
+2022-11-28 01:41:58,576 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:58,576 INFO ('72992168', 'https://api.hh.ru/vacancies/72992168?host=hh.ru ')
+2022-11-28 01:41:58,576 INFO https://api.hh.ru/vacancies/72992168?host=hh.ru  282   26.471487000002526
+2022-11-28 01:41:58,709 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:58,710 INFO ('72143224', 'https://api.hh.ru/vacancies/72143224?host=hh.ru ')
+2022-11-28 01:41:58,710 INFO https://api.hh.ru/vacancies/72143224?host=hh.ru  283   26.604717599984724
+2022-11-28 01:41:58,786 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:58,786 INFO ('72143160', 'https://api.hh.ru/vacancies/72143160?host=hh.ru ')
+2022-11-28 01:41:58,786 INFO https://api.hh.ru/vacancies/72143160?host=hh.ru  284   26.681429899996147
+2022-11-28 01:41:58,860 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:58,861 INFO ('72704175', 'https://api.hh.ru/vacancies/72704175?host=hh.ru ')
+2022-11-28 01:41:58,861 INFO https://api.hh.ru/vacancies/72704175?host=hh.ru  285   26.756333699973766
+2022-11-28 01:41:58,958 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:58,958 INFO ('72704186', 'https://api.hh.ru/vacancies/72704186?host=hh.ru ')
+2022-11-28 01:41:58,958 INFO https://api.hh.ru/vacancies/72704186?host=hh.ru  286   26.85292129998561
+2022-11-28 01:41:59,071 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:59,072 INFO ('72991992', 'https://api.hh.ru/vacancies/72991992?host=hh.ru ')
+2022-11-28 01:41:59,072 INFO https://api.hh.ru/vacancies/72991992?host=hh.ru  287   26.967259800003376
+2022-11-28 01:41:59,138 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:59,138 INFO ('71866870', 'https://api.hh.ru/vacancies/71866870?host=hh.ru ')
+2022-11-28 01:41:59,138 INFO https://api.hh.ru/vacancies/71866870?host=hh.ru  288   27.032881499966606
+2022-11-28 01:41:59,303 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:59,303 INFO ('71347704', 'https://api.hh.ru/vacancies/71347704?host=hh.ru ')
+2022-11-28 01:41:59,304 INFO https://api.hh.ru/vacancies/71347704?host=hh.ru  289   27.198691900004633
+2022-11-28 01:41:59,403 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:59,403 INFO ('72377769', 'https://api.hh.ru/vacancies/72377769?host=hh.ru ')
+2022-11-28 01:41:59,403 INFO https://api.hh.ru/vacancies/72377769?host=hh.ru  290   27.29785129998345
+2022-11-28 01:41:59,490 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:59,490 INFO ('69255178', 'https://api.hh.ru/vacancies/69255178?host=hh.ru ')
+2022-11-28 01:41:59,490 INFO https://api.hh.ru/vacancies/69255178?host=hh.ru  291   27.385856100008823
+2022-11-28 01:41:59,804 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:59,804 INFO ('71841775', 'https://api.hh.ru/vacancies/71841775?host=hh.ru ')
+2022-11-28 01:41:59,804 INFO https://api.hh.ru/vacancies/71841775?host=hh.ru  292   27.699086399981752
+2022-11-28 01:41:59,911 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:59,911 INFO ('70995305', 'https://api.hh.ru/vacancies/70995305?host=hh.ru ')
+2022-11-28 01:41:59,911 INFO https://api.hh.ru/vacancies/70995305?host=hh.ru  293   27.806163000001106
+2022-11-28 01:41:59,995 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:41:59,995 INFO ('71720737', 'https://api.hh.ru/vacancies/71720737?host=hh.ru ')
+2022-11-28 01:41:59,996 INFO https://api.hh.ru/vacancies/71720737?host=hh.ru  294   27.890352399961557
+2022-11-28 01:42:00,084 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:00,084 INFO ('71786145', 'https://api.hh.ru/vacancies/71786145?host=hh.ru ')
+2022-11-28 01:42:00,084 INFO https://api.hh.ru/vacancies/71786145?host=hh.ru  295   27.97905309998896
+2022-11-28 01:42:00,164 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:00,164 INFO ('71719178', 'https://api.hh.ru/vacancies/71719178?host=hh.ru ')
+2022-11-28 01:42:00,164 INFO https://api.hh.ru/vacancies/71719178?host=hh.ru  296   28.059697299962863
+2022-11-28 01:42:00,243 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:00,243 INFO ('55566994', 'https://api.hh.ru/vacancies/55566994?host=hh.ru ')
+2022-11-28 01:42:00,243 INFO https://api.hh.ru/vacancies/55566994?host=hh.ru  297   28.13819099997636
+2022-11-28 01:42:00,315 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:00,315 INFO ('71787504', 'https://api.hh.ru/vacancies/71787504?host=hh.ru ')
+2022-11-28 01:42:00,315 INFO https://api.hh.ru/vacancies/71787504?host=hh.ru  298   28.21075979998568
+2022-11-28 01:42:00,381 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:00,382 INFO ('72704092', 'https://api.hh.ru/vacancies/72704092?host=hh.ru ')
+2022-11-28 01:42:00,382 INFO https://api.hh.ru/vacancies/72704092?host=hh.ru  299   28.277221600001212
+2022-11-28 01:42:00,445 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:00,446 INFO ('72705966', 'https://api.hh.ru/vacancies/72705966?host=hh.ru ')
+2022-11-28 01:42:00,446 INFO https://api.hh.ru/vacancies/72705966?host=hh.ru  300   28.341189900005702
+2022-11-28 01:42:00,512 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:00,512 INFO ('72142892', 'https://api.hh.ru/vacancies/72142892?host=hh.ru ')
+2022-11-28 01:42:00,512 INFO https://api.hh.ru/vacancies/72142892?host=hh.ru  301   28.407163799973205
+2022-11-28 01:42:00,700 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:00,700 INFO ('72992910', 'https://api.hh.ru/vacancies/72992910?host=hh.ru ')
+2022-11-28 01:42:00,700 INFO https://api.hh.ru/vacancies/72992910?host=hh.ru  302   28.595187500002794
+2022-11-28 01:42:00,780 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:00,780 INFO ('72377797', 'https://api.hh.ru/vacancies/72377797?host=hh.ru ')
+2022-11-28 01:42:00,780 INFO https://api.hh.ru/vacancies/72377797?host=hh.ru  303   28.675538199953735
+2022-11-28 01:42:00,872 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:00,872 INFO ('52842937', 'https://api.hh.ru/vacancies/52842937?host=hh.ru ')
+2022-11-28 01:42:00,872 INFO https://api.hh.ru/vacancies/52842937?host=hh.ru  304   28.76719929999672
+2022-11-28 01:42:00,986 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:00,986 INFO ('71938807', 'https://api.hh.ru/vacancies/71938807?host=hh.ru ')
+2022-11-28 01:42:00,986 INFO https://api.hh.ru/vacancies/71938807?host=hh.ru  305   28.881405399995856
+2022-11-28 01:42:01,064 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:01,064 INFO ('71787766', 'https://api.hh.ru/vacancies/71787766?host=hh.ru ')
+2022-11-28 01:42:01,064 INFO https://api.hh.ru/vacancies/71787766?host=hh.ru  306   28.9594109999598
+2022-11-28 01:42:01,131 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:01,131 INFO ('71786096', 'https://api.hh.ru/vacancies/71786096?host=hh.ru ')
+2022-11-28 01:42:01,131 INFO https://api.hh.ru/vacancies/71786096?host=hh.ru  307   29.026941399963107
+2022-11-28 01:42:01,203 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:01,204 INFO ('71787545', 'https://api.hh.ru/vacancies/71787545?host=hh.ru ')
+2022-11-28 01:42:01,204 INFO https://api.hh.ru/vacancies/71787545?host=hh.ru  308   29.09838059998583
+2022-11-28 01:42:01,309 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:01,309 INFO ('72078248', 'https://api.hh.ru/vacancies/72078248?host=hh.ru ')
+2022-11-28 01:42:01,309 INFO https://api.hh.ru/vacancies/72078248?host=hh.ru  309   29.204244399967138
+2022-11-28 01:42:01,549 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:01,550 INFO ('71786934', 'https://api.hh.ru/vacancies/71786934?host=hh.ru ')
+2022-11-28 01:42:01,550 INFO https://api.hh.ru/vacancies/71786934?host=hh.ru  310   29.444399199972395
+2022-11-28 01:42:01,685 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:01,685 INFO ('71938564', 'https://api.hh.ru/vacancies/71938564?host=hh.ru ')
+2022-11-28 01:42:01,685 INFO https://api.hh.ru/vacancies/71938564?host=hh.ru  311   29.579882199992426
+2022-11-28 01:42:01,760 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:01,760 INFO ('69790195', 'https://api.hh.ru/vacancies/69790195?host=hh.ru ')
+2022-11-28 01:42:01,760 INFO https://api.hh.ru/vacancies/69790195?host=hh.ru  312   29.654953699966427
+2022-11-28 01:42:01,951 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:01,951 INFO ('71786308', 'https://api.hh.ru/vacancies/71786308?host=hh.ru ')
+2022-11-28 01:42:01,951 INFO https://api.hh.ru/vacancies/71786308?host=hh.ru  313   29.846072099986486
+2022-11-28 01:42:02,065 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:02,065 INFO ('68703447', 'https://api.hh.ru/vacancies/68703447?host=hh.ru ')
+2022-11-28 01:42:02,065 INFO https://api.hh.ru/vacancies/68703447?host=hh.ru  314   29.9608947999659
+2022-11-28 01:42:02,152 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:02,152 INFO ('72143191', 'https://api.hh.ru/vacancies/72143191?host=hh.ru ')
+2022-11-28 01:42:02,152 INFO https://api.hh.ru/vacancies/72143191?host=hh.ru  315   30.047097800008487
+2022-11-28 01:42:02,248 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:02,248 INFO ('71188194', 'https://api.hh.ru/vacancies/71188194?host=hh.ru ')
+2022-11-28 01:42:02,249 INFO https://api.hh.ru/vacancies/71188194?host=hh.ru  316   30.143942299997434
+2022-11-28 01:42:02,340 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:02,341 INFO ('71938718', 'https://api.hh.ru/vacancies/71938718?host=hh.ru ')
+2022-11-28 01:42:02,341 INFO https://api.hh.ru/vacancies/71938718?host=hh.ru  317   30.235769699967932
+2022-11-28 01:42:02,415 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:02,415 INFO ('71787768', 'https://api.hh.ru/vacancies/71787768?host=hh.ru ')
+2022-11-28 01:42:02,415 INFO https://api.hh.ru/vacancies/71787768?host=hh.ru  318   30.310317099967506
+2022-11-28 01:42:02,532 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:02,532 INFO ('72256670', 'https://api.hh.ru/vacancies/72256670?host=hh.ru ')
+2022-11-28 01:42:02,532 INFO https://api.hh.ru/vacancies/72256670?host=hh.ru  319   30.42691169999307
+2022-11-28 01:42:02,609 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:02,609 INFO ('71787308', 'https://api.hh.ru/vacancies/71787308?host=hh.ru ')
+2022-11-28 01:42:02,609 INFO https://api.hh.ru/vacancies/71787308?host=hh.ru  320   30.50419609999517
+2022-11-28 01:42:03,384 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:03,384 INFO ('72992547', 'https://api.hh.ru/vacancies/72992547?host=hh.ru ')
+2022-11-28 01:42:03,384 INFO https://api.hh.ru/vacancies/72992547?host=hh.ru  321   31.27912829996785
+2022-11-28 01:42:03,537 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:03,537 INFO ('71787772', 'https://api.hh.ru/vacancies/71787772?host=hh.ru ')
+2022-11-28 01:42:03,537 INFO https://api.hh.ru/vacancies/71787772?host=hh.ru  322   31.431830899964552
+2022-11-28 01:42:03,666 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:03,666 INFO ('72705107', 'https://api.hh.ru/vacancies/72705107?host=hh.ru ')
+2022-11-28 01:42:03,666 INFO https://api.hh.ru/vacancies/72705107?host=hh.ru  323   31.561233999964315
+2022-11-28 01:42:03,798 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:03,798 INFO ('71787767', 'https://api.hh.ru/vacancies/71787767?host=hh.ru ')
+2022-11-28 01:42:03,798 INFO https://api.hh.ru/vacancies/71787767?host=hh.ru  324   31.6932149999775
+2022-11-28 01:42:03,948 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:03,949 INFO ('69255176', 'https://api.hh.ru/vacancies/69255176?host=hh.ru ')
+2022-11-28 01:42:03,949 INFO https://api.hh.ru/vacancies/69255176?host=hh.ru  325   31.84407759999158
+2022-11-28 01:42:04,088 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:04,088 INFO ('71787771', 'https://api.hh.ru/vacancies/71787771?host=hh.ru ')
+2022-11-28 01:42:04,088 INFO https://api.hh.ru/vacancies/71787771?host=hh.ru  326   31.9832572999876
+2022-11-28 01:42:04,209 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:04,209 INFO ('71719367', 'https://api.hh.ru/vacancies/71719367?host=hh.ru ')
+2022-11-28 01:42:04,209 INFO https://api.hh.ru/vacancies/71719367?host=hh.ru  327   32.10422269999981
+2022-11-28 01:42:04,333 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:04,334 INFO ('71188193', 'https://api.hh.ru/vacancies/71188193?host=hh.ru ')
+2022-11-28 01:42:04,334 INFO https://api.hh.ru/vacancies/71188193?host=hh.ru  328   32.229174999985844
+2022-11-28 01:42:04,491 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:04,492 INFO ('70740572', 'https://api.hh.ru/vacancies/70740572?host=hh.ru ')
+2022-11-28 01:42:04,492 INFO https://api.hh.ru/vacancies/70740572?host=hh.ru  329   32.387105599977076
+2022-11-28 01:42:04,637 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:04,637 INFO ('68526311', 'https://api.hh.ru/vacancies/68526311?host=hh.ru ')
+2022-11-28 01:42:04,637 INFO https://api.hh.ru/vacancies/68526311?host=hh.ru  330   32.532875299977604
+2022-11-28 01:42:04,785 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:04,786 INFO ('71787770', 'https://api.hh.ru/vacancies/71787770?host=hh.ru ')
+2022-11-28 01:42:04,786 INFO https://api.hh.ru/vacancies/71787770?host=hh.ru  331   32.68030159996124
+2022-11-28 01:42:04,941 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:04,941 INFO ('70740573', 'https://api.hh.ru/vacancies/70740573?host=hh.ru ')
+2022-11-28 01:42:04,941 INFO https://api.hh.ru/vacancies/70740573?host=hh.ru  332   32.83682679996127
+2022-11-28 01:42:05,100 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:05,100 INFO ('67882091', 'https://api.hh.ru/vacancies/67882091?host=hh.ru ')
+2022-11-28 01:42:05,100 INFO https://api.hh.ru/vacancies/67882091?host=hh.ru  333   32.995703599997796
+2022-11-28 01:42:05,255 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:05,255 INFO ('69107773', 'https://api.hh.ru/vacancies/69107773?host=hh.ru ')
+2022-11-28 01:42:05,255 INFO https://api.hh.ru/vacancies/69107773?host=hh.ru  334   33.150055499980226
+2022-11-28 01:42:05,400 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:05,400 INFO ('71419424', 'https://api.hh.ru/vacancies/71419424?host=hh.ru ')
+2022-11-28 01:42:05,400 INFO https://api.hh.ru/vacancies/71419424?host=hh.ru  335   33.29551749996608
+2022-11-28 01:42:05,552 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:05,552 INFO ('72886305', 'https://api.hh.ru/vacancies/72886305?host=hh.ru ')
+2022-11-28 01:42:05,552 INFO https://api.hh.ru/vacancies/72886305?host=hh.ru  336   33.44722149998415
+2022-11-28 01:42:05,715 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:05,715 INFO ('72700482', 'https://api.hh.ru/vacancies/72700482?host=hh.ru ')
+2022-11-28 01:42:05,715 INFO https://api.hh.ru/vacancies/72700482?host=hh.ru  337   33.61045739997644
+2022-11-28 01:42:05,796 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:05,796 INFO ('72990270', 'https://api.hh.ru/vacancies/72990270?host=hh.ru ')
+2022-11-28 01:42:05,796 INFO https://api.hh.ru/vacancies/72990270?host=hh.ru  338   33.69163859996479
+2022-11-28 01:42:05,889 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:05,889 INFO ('72990621', 'https://api.hh.ru/vacancies/72990621?host=hh.ru ')
+2022-11-28 01:42:05,889 INFO https://api.hh.ru/vacancies/72990621?host=hh.ru  339   33.784189599973615
+2022-11-28 01:42:05,984 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:05,984 INFO ('69314680', 'https://api.hh.ru/vacancies/69314680?host=hh.ru ')
+2022-11-28 01:42:05,984 INFO https://api.hh.ru/vacancies/69314680?host=hh.ru  340   33.879965399974026
+2022-11-28 01:42:06,060 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:06,060 INFO ('72888678', 'https://api.hh.ru/vacancies/72888678?host=hh.ru ')
+2022-11-28 01:42:06,060 INFO https://api.hh.ru/vacancies/72888678?host=hh.ru  341   33.954878099961206
+2022-11-28 01:42:06,132 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:06,133 INFO ('72560984', 'https://api.hh.ru/vacancies/72560984?host=hh.ru ')
+2022-11-28 01:42:06,133 INFO https://api.hh.ru/vacancies/72560984?host=hh.ru  342   34.02775969996583
+2022-11-28 01:42:06,197 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:06,197 INFO ('72375161', 'https://api.hh.ru/vacancies/72375161?host=hh.ru ')
+2022-11-28 01:42:06,197 INFO https://api.hh.ru/vacancies/72375161?host=hh.ru  343   34.092588100000285
+2022-11-28 01:42:06,264 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:06,264 INFO ('69775861', 'https://api.hh.ru/vacancies/69775861?host=hh.ru ')
+2022-11-28 01:42:06,264 INFO https://api.hh.ru/vacancies/69775861?host=hh.ru  344   34.15973909996683
+2022-11-28 01:42:06,375 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:06,375 INFO ('72562290', 'https://api.hh.ru/vacancies/72562290?host=hh.ru ')
+2022-11-28 01:42:06,375 INFO https://api.hh.ru/vacancies/72562290?host=hh.ru  345   34.26975799998036
+2022-11-28 01:42:06,452 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:06,452 INFO ('72562654', 'https://api.hh.ru/vacancies/72562654?host=hh.ru ')
+2022-11-28 01:42:06,452 INFO https://api.hh.ru/vacancies/72562654?host=hh.ru  346   34.34783199999947
+2022-11-28 01:42:06,530 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:06,530 INFO ('72562678', 'https://api.hh.ru/vacancies/72562678?host=hh.ru ')
+2022-11-28 01:42:06,530 INFO https://api.hh.ru/vacancies/72562678?host=hh.ru  347   34.42529220000142
+2022-11-28 01:42:06,591 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:06,591 INFO ('72887011', 'https://api.hh.ru/vacancies/72887011?host=hh.ru ')
+2022-11-28 01:42:06,591 INFO https://api.hh.ru/vacancies/72887011?host=hh.ru  348   34.48634189995937
+2022-11-28 01:42:06,661 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:06,661 INFO ('71934677', 'https://api.hh.ru/vacancies/71934677?host=hh.ru ')
+2022-11-28 01:42:06,661 INFO https://api.hh.ru/vacancies/71934677?host=hh.ru  349   34.556587799976114
+2022-11-28 01:42:06,968 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:06,969 INFO ('72701467', 'https://api.hh.ru/vacancies/72701467?host=hh.ru ')
+2022-11-28 01:42:06,969 INFO https://api.hh.ru/vacancies/72701467?host=hh.ru  350   34.863549900008366
+2022-11-28 01:42:07,089 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:07,090 INFO ('72990411', 'https://api.hh.ru/vacancies/72990411?host=hh.ru ')
+2022-11-28 01:42:07,090 INFO https://api.hh.ru/vacancies/72990411?host=hh.ru  351   34.98450009996304
+2022-11-28 01:42:07,152 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:07,152 INFO ('72700459', 'https://api.hh.ru/vacancies/72700459?host=hh.ru ')
+2022-11-28 01:42:07,152 INFO https://api.hh.ru/vacancies/72700459?host=hh.ru  352   35.047040799981914
+2022-11-28 01:42:07,248 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:07,248 INFO ('72701395', 'https://api.hh.ru/vacancies/72701395?host=hh.ru ')
+2022-11-28 01:42:07,248 INFO https://api.hh.ru/vacancies/72701395?host=hh.ru  353   35.14337159995921
+2022-11-28 01:42:07,348 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:07,348 INFO ('70767372', 'https://api.hh.ru/vacancies/70767372?host=hh.ru ')
+2022-11-28 01:42:07,348 INFO https://api.hh.ru/vacancies/70767372?host=hh.ru  354   35.24394069996197
+2022-11-28 01:42:07,422 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:07,422 INFO ('72700392', 'https://api.hh.ru/vacancies/72700392?host=hh.ru ')
+2022-11-28 01:42:07,422 INFO https://api.hh.ru/vacancies/72700392?host=hh.ru  355   35.31706509995274
+2022-11-28 01:42:07,491 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:07,491 INFO ('72699946', 'https://api.hh.ru/vacancies/72699946?host=hh.ru ')
+2022-11-28 01:42:07,491 INFO https://api.hh.ru/vacancies/72699946?host=hh.ru  356   35.386011499969754
+2022-11-28 01:42:07,558 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:07,558 INFO ('71933198', 'https://api.hh.ru/vacancies/71933198?host=hh.ru ')
+2022-11-28 01:42:07,558 INFO https://api.hh.ru/vacancies/71933198?host=hh.ru  357   35.453894299978856
+2022-11-28 01:42:07,624 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:07,624 INFO ('72141687', 'https://api.hh.ru/vacancies/72141687?host=hh.ru ')
+2022-11-28 01:42:07,624 INFO https://api.hh.ru/vacancies/72141687?host=hh.ru  358   35.51990650000516
+2022-11-28 01:42:07,745 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:07,745 INFO ('72701349', 'https://api.hh.ru/vacancies/72701349?host=hh.ru ')
+2022-11-28 01:42:07,745 INFO https://api.hh.ru/vacancies/72701349?host=hh.ru  359   35.63996999996016
+2022-11-28 01:42:07,815 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:07,815 INFO ('72887969', 'https://api.hh.ru/vacancies/72887969?host=hh.ru ')
+2022-11-28 01:42:07,815 INFO https://api.hh.ru/vacancies/72887969?host=hh.ru  360   35.70950349996565
+2022-11-28 01:42:07,881 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:07,882 INFO ('72887680', 'https://api.hh.ru/vacancies/72887680?host=hh.ru ')
+2022-11-28 01:42:07,882 INFO https://api.hh.ru/vacancies/72887680?host=hh.ru  361   35.777334499987774
+2022-11-28 01:42:07,950 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:07,950 INFO ('72562587', 'https://api.hh.ru/vacancies/72562587?host=hh.ru ')
+2022-11-28 01:42:07,950 INFO https://api.hh.ru/vacancies/72562587?host=hh.ru  362   35.8459100999753
+2022-11-28 01:42:08,061 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:08,061 INFO ('72990400', 'https://api.hh.ru/vacancies/72990400?host=hh.ru ')
+2022-11-28 01:42:08,061 INFO https://api.hh.ru/vacancies/72990400?host=hh.ru  363   35.95603329996811
+2022-11-28 01:42:08,149 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:08,149 INFO ('72562612', 'https://api.hh.ru/vacancies/72562612?host=hh.ru ')
+2022-11-28 01:42:08,149 INFO https://api.hh.ru/vacancies/72562612?host=hh.ru  364   36.044203599973116
+2022-11-28 01:42:08,258 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:08,258 INFO ('72374904', 'https://api.hh.ru/vacancies/72374904?host=hh.ru ')
+2022-11-28 01:42:08,258 INFO https://api.hh.ru/vacancies/72374904?host=hh.ru  365   36.15349769999739
+2022-11-28 01:42:08,324 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:08,324 INFO ('72887307', 'https://api.hh.ru/vacancies/72887307?host=hh.ru ')
+2022-11-28 01:42:08,324 INFO https://api.hh.ru/vacancies/72887307?host=hh.ru  366   36.2193236000021
+2022-11-28 01:42:08,401 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:08,401 INFO ('71785255', 'https://api.hh.ru/vacancies/71785255?host=hh.ru ')
+2022-11-28 01:42:08,401 INFO https://api.hh.ru/vacancies/71785255?host=hh.ru  367   36.29645849997178
+2022-11-28 01:42:08,477 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:08,477 INFO ('72990281', 'https://api.hh.ru/vacancies/72990281?host=hh.ru ')
+2022-11-28 01:42:08,477 INFO https://api.hh.ru/vacancies/72990281?host=hh.ru  368   36.37207099999068
+2022-11-28 01:42:08,553 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:08,553 INFO ('72122190', 'https://api.hh.ru/vacancies/72122190?host=hh.ru ')
+2022-11-28 01:42:08,553 INFO https://api.hh.ru/vacancies/72122190?host=hh.ru  369   36.44826069998089
+2022-11-28 01:42:08,634 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:08,634 INFO ('72561530', 'https://api.hh.ru/vacancies/72561530?host=hh.ru ')
+2022-11-28 01:42:08,634 INFO https://api.hh.ru/vacancies/72561530?host=hh.ru  370   36.52895989996614
+2022-11-28 01:42:08,735 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:08,736 INFO ('72140693', 'https://api.hh.ru/vacancies/72140693?host=hh.ru ')
+2022-11-28 01:42:08,736 INFO https://api.hh.ru/vacancies/72140693?host=hh.ru  371   36.63142940000398
+2022-11-28 01:42:08,805 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:08,805 INFO ('72693361', 'https://api.hh.ru/vacancies/72693361?host=hh.ru ')
+2022-11-28 01:42:08,805 INFO https://api.hh.ru/vacancies/72693361?host=hh.ru  372   36.700452799967024
+2022-11-28 01:42:08,889 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:08,890 INFO ('72879635', 'https://api.hh.ru/vacancies/72879635?host=hh.ru ')
+2022-11-28 01:42:08,890 INFO https://api.hh.ru/vacancies/72879635?host=hh.ru  373   36.785210600006394
+2022-11-28 01:42:08,960 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:08,960 INFO ('72700687', 'https://api.hh.ru/vacancies/72700687?host=hh.ru ')
+2022-11-28 01:42:08,960 INFO https://api.hh.ru/vacancies/72700687?host=hh.ru  374   36.85561149998102
+2022-11-28 01:42:09,034 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:09,034 INFO ('70122802', 'https://api.hh.ru/vacancies/70122802?host=hh.ru ')
+2022-11-28 01:42:09,034 INFO https://api.hh.ru/vacancies/70122802?host=hh.ru  375   36.92895209998824
+2022-11-28 01:42:09,300 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:09,300 INFO ('70992901', 'https://api.hh.ru/vacancies/70992901?host=hh.ru ')
+2022-11-28 01:42:09,300 INFO https://api.hh.ru/vacancies/70992901?host=hh.ru  376   37.19567739998456
+2022-11-28 01:42:09,428 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:09,428 INFO ('72375138', 'https://api.hh.ru/vacancies/72375138?host=hh.ru ')
+2022-11-28 01:42:09,429 INFO https://api.hh.ru/vacancies/72375138?host=hh.ru  377   37.32385179999983
+2022-11-28 01:42:09,515 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:09,515 INFO ('72694647', 'https://api.hh.ru/vacancies/72694647?host=hh.ru ')
+2022-11-28 01:42:09,515 INFO https://api.hh.ru/vacancies/72694647?host=hh.ru  378   37.409963199985214
+2022-11-28 01:42:09,628 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:09,628 INFO ('71933838', 'https://api.hh.ru/vacancies/71933838?host=hh.ru ')
+2022-11-28 01:42:09,628 INFO https://api.hh.ru/vacancies/71933838?host=hh.ru  379   37.522666799952276
+2022-11-28 01:42:09,706 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:09,707 INFO ('72879999', 'https://api.hh.ru/vacancies/72879999?host=hh.ru ')
+2022-11-28 01:42:09,707 INFO https://api.hh.ru/vacancies/72879999?host=hh.ru  380   37.60208409995539
+2022-11-28 01:42:09,781 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:09,781 INFO ('72562642', 'https://api.hh.ru/vacancies/72562642?host=hh.ru ')
+2022-11-28 01:42:09,781 INFO https://api.hh.ru/vacancies/72562642?host=hh.ru  381   37.67639649997
+2022-11-28 01:42:09,857 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:09,858 INFO ('72881009', 'https://api.hh.ru/vacancies/72881009?host=hh.ru ')
+2022-11-28 01:42:09,858 INFO https://api.hh.ru/vacancies/72881009?host=hh.ru  382   37.752477400004864
+2022-11-28 01:42:09,934 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:09,935 INFO ('71350387', 'https://api.hh.ru/vacancies/71350387?host=hh.ru ')
+2022-11-28 01:42:09,935 INFO https://api.hh.ru/vacancies/71350387?host=hh.ru  383   37.82951879996108
+2022-11-28 01:42:10,008 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:10,008 INFO ('72880424', 'https://api.hh.ru/vacancies/72880424?host=hh.ru ')
+2022-11-28 01:42:10,008 INFO https://api.hh.ru/vacancies/72880424?host=hh.ru  384   37.90296129998751
+2022-11-28 01:42:10,077 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:10,078 INFO ('71972979', 'https://api.hh.ru/vacancies/71972979?host=hh.ru ')
+2022-11-28 01:42:10,078 INFO https://api.hh.ru/vacancies/71972979?host=hh.ru  385   37.97245409997413
+2022-11-28 01:42:10,156 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:10,156 INFO ('72692190', 'https://api.hh.ru/vacancies/72692190?host=hh.ru ')
+2022-11-28 01:42:10,156 INFO https://api.hh.ru/vacancies/72692190?host=hh.ru  386   38.050650399993174
+2022-11-28 01:42:10,325 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:10,326 INFO ('72887455', 'https://api.hh.ru/vacancies/72887455?host=hh.ru ')
+2022-11-28 01:42:10,326 INFO https://api.hh.ru/vacancies/72887455?host=hh.ru  387   38.220815899956506
+2022-11-28 01:42:10,399 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:10,399 INFO ('72880329', 'https://api.hh.ru/vacancies/72880329?host=hh.ru ')
+2022-11-28 01:42:10,399 INFO https://api.hh.ru/vacancies/72880329?host=hh.ru  388   38.294321199995466
+2022-11-28 01:42:10,469 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:10,469 INFO ('72562103', 'https://api.hh.ru/vacancies/72562103?host=hh.ru ')
+2022-11-28 01:42:10,469 INFO https://api.hh.ru/vacancies/72562103?host=hh.ru  389   38.36424389999593
+2022-11-28 01:42:10,567 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:10,567 INFO ('72693621', 'https://api.hh.ru/vacancies/72693621?host=hh.ru ')
+2022-11-28 01:42:10,567 INFO https://api.hh.ru/vacancies/72693621?host=hh.ru  390   38.46202350000385
+2022-11-28 01:42:10,636 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:10,637 INFO ('72699436', 'https://api.hh.ru/vacancies/72699436?host=hh.ru ')
+2022-11-28 01:42:10,637 INFO https://api.hh.ru/vacancies/72699436?host=hh.ru  391   38.53174509998644
+2022-11-28 01:42:10,737 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:10,738 INFO ('72881760', 'https://api.hh.ru/vacancies/72881760?host=hh.ru ')
+2022-11-28 01:42:10,738 INFO https://api.hh.ru/vacancies/72881760?host=hh.ru  392   38.6332341999514
+2022-11-28 01:42:10,843 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:10,843 INFO ('72700415', 'https://api.hh.ru/vacancies/72700415?host=hh.ru ')
+2022-11-28 01:42:10,843 INFO https://api.hh.ru/vacancies/72700415?host=hh.ru  393   38.73844220000319
+2022-11-28 01:42:10,913 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:10,913 INFO ('70471853', 'https://api.hh.ru/vacancies/70471853?host=hh.ru ')
+2022-11-28 01:42:10,913 INFO https://api.hh.ru/vacancies/70471853?host=hh.ru  394   38.808124399976805
+2022-11-28 01:42:11,008 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:11,008 INFO ('72887491', 'https://api.hh.ru/vacancies/72887491?host=hh.ru ')
+2022-11-28 01:42:11,008 INFO https://api.hh.ru/vacancies/72887491?host=hh.ru  395   38.90346249996219
+2022-11-28 01:42:11,147 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:11,147 INFO ('72553277', 'https://api.hh.ru/vacancies/72553277?host=hh.ru ')
+2022-11-28 01:42:11,147 INFO https://api.hh.ru/vacancies/72553277?host=hh.ru  396   39.041741999972146
+2022-11-28 01:42:11,286 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:11,287 INFO ('72561271', 'https://api.hh.ru/vacancies/72561271?host=hh.ru ')
+2022-11-28 01:42:11,287 INFO https://api.hh.ru/vacancies/72561271?host=hh.ru  397   39.18181999999797
+2022-11-28 01:42:11,363 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:11,364 INFO ('72692336', 'https://api.hh.ru/vacancies/72692336?host=hh.ru ')
+2022-11-28 01:42:11,364 INFO https://api.hh.ru/vacancies/72692336?host=hh.ru  398   39.259214099962264
+2022-11-28 01:42:11,459 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:11,459 INFO ('72561990', 'https://api.hh.ru/vacancies/72561990?host=hh.ru ')
+2022-11-28 01:42:11,459 INFO https://api.hh.ru/vacancies/72561990?host=hh.ru  399   39.35391399997752
+2022-11-28 01:42:11,720 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:11,721 INFO ('70969789', 'https://api.hh.ru/vacancies/70969789?host=hh.ru ')
+2022-11-28 01:42:11,721 INFO https://api.hh.ru/vacancies/70969789?host=hh.ru  400   39.61540239996975
+2022-11-28 01:42:11,821 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:11,821 INFO ('72700537', 'https://api.hh.ru/vacancies/72700537?host=hh.ru ')
+2022-11-28 01:42:11,821 INFO https://api.hh.ru/vacancies/72700537?host=hh.ru  401   39.716688699962106
+2022-11-28 01:42:11,894 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:11,894 INFO ('67877480', 'https://api.hh.ru/vacancies/67877480?host=hh.ru ')
+2022-11-28 01:42:11,894 INFO https://api.hh.ru/vacancies/67877480?host=hh.ru  402   39.78912579995813
+2022-11-28 01:42:11,986 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:11,986 INFO ('72553426', 'https://api.hh.ru/vacancies/72553426?host=hh.ru ')
+2022-11-28 01:42:11,986 INFO https://api.hh.ru/vacancies/72553426?host=hh.ru  403   39.88114759995369
+2022-11-28 01:42:12,067 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:12,067 INFO ('72702692', 'https://api.hh.ru/vacancies/72702692?host=hh.ru ')
+2022-11-28 01:42:12,067 INFO https://api.hh.ru/vacancies/72702692?host=hh.ru  404   39.96206809999421
+2022-11-28 01:42:12,144 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:12,144 INFO ('72375546', 'https://api.hh.ru/vacancies/72375546?host=hh.ru ')
+2022-11-28 01:42:12,145 INFO https://api.hh.ru/vacancies/72375546?host=hh.ru  405   40.039739799976815
+2022-11-28 01:42:12,240 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:12,241 INFO ('72883945', 'https://api.hh.ru/vacancies/72883945?host=hh.ru ')
+2022-11-28 01:42:12,241 INFO https://api.hh.ru/vacancies/72883945?host=hh.ru  406   40.135585899988655
+2022-11-28 01:42:12,313 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:12,313 INFO ('71927610', 'https://api.hh.ru/vacancies/71927610?host=hh.ru ')
+2022-11-28 01:42:12,313 INFO https://api.hh.ru/vacancies/71927610?host=hh.ru  407   40.20830900000874
+2022-11-28 01:42:12,380 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:12,380 INFO ('72702731', 'https://api.hh.ru/vacancies/72702731?host=hh.ru ')
+2022-11-28 01:42:12,380 INFO https://api.hh.ru/vacancies/72702731?host=hh.ru  408   40.27572259999579
+2022-11-28 01:42:12,589 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:12,589 INFO ('72561327', 'https://api.hh.ru/vacancies/72561327?host=hh.ru ')
+2022-11-28 01:42:12,589 INFO https://api.hh.ru/vacancies/72561327?host=hh.ru  409   40.484185399953276
+2022-11-28 01:42:12,669 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:12,669 INFO ('72886215', 'https://api.hh.ru/vacancies/72886215?host=hh.ru ')
+2022-11-28 01:42:12,669 INFO https://api.hh.ru/vacancies/72886215?host=hh.ru  410   40.56419649999589
+2022-11-28 01:42:12,739 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:12,739 INFO ('71785938', 'https://api.hh.ru/vacancies/71785938?host=hh.ru ')
+2022-11-28 01:42:12,739 INFO https://api.hh.ru/vacancies/71785938?host=hh.ru  411   40.633877599961124
+2022-11-28 01:42:12,858 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:12,858 INFO ('71345689', 'https://api.hh.ru/vacancies/71345689?host=hh.ru ')
+2022-11-28 01:42:12,858 INFO https://api.hh.ru/vacancies/71345689?host=hh.ru  412   40.75352039997233
+2022-11-28 01:42:12,954 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:12,954 INFO ('72374614', 'https://api.hh.ru/vacancies/72374614?host=hh.ru ')
+2022-11-28 01:42:12,955 INFO https://api.hh.ru/vacancies/72374614?host=hh.ru  413   40.85021239996422
+2022-11-28 01:42:13,037 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:13,038 INFO ('72142055', 'https://api.hh.ru/vacancies/72142055?host=hh.ru ')
+2022-11-28 01:42:13,038 INFO https://api.hh.ru/vacancies/72142055?host=hh.ru  414   40.93331180000678
+2022-11-28 01:42:13,109 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:13,109 INFO ('72560721', 'https://api.hh.ru/vacancies/72560721?host=hh.ru ')
+2022-11-28 01:42:13,109 INFO https://api.hh.ru/vacancies/72560721?host=hh.ru  415   41.00472189998254
+2022-11-28 01:42:13,184 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:13,184 INFO ('67226981', 'https://api.hh.ru/vacancies/67226981?host=hh.ru ')
+2022-11-28 01:42:13,184 INFO https://api.hh.ru/vacancies/67226981?host=hh.ru  416   41.07921469997382
+2022-11-28 01:42:13,295 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:13,295 INFO ('72375324', 'https://api.hh.ru/vacancies/72375324?host=hh.ru ')
+2022-11-28 01:42:13,295 INFO https://api.hh.ru/vacancies/72375324?host=hh.ru  417   41.190446299966425
+2022-11-28 01:42:13,359 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:13,359 INFO ('72890279', 'https://api.hh.ru/vacancies/72890279?host=hh.ru ')
+2022-11-28 01:42:13,359 INFO https://api.hh.ru/vacancies/72890279?host=hh.ru  418   41.254471499996725
+2022-11-28 01:42:13,448 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:13,448 INFO ('72696302', 'https://api.hh.ru/vacancies/72696302?host=hh.ru ')
+2022-11-28 01:42:13,448 INFO https://api.hh.ru/vacancies/72696302?host=hh.ru  419   41.3432045999798
+2022-11-28 01:42:13,558 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:13,559 INFO ('71780217', 'https://api.hh.ru/vacancies/71780217?host=hh.ru ')
+2022-11-28 01:42:13,559 INFO https://api.hh.ru/vacancies/71780217?host=hh.ru  420   41.45370269997511
+2022-11-28 01:42:13,637 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:13,637 INFO ('72561559', 'https://api.hh.ru/vacancies/72561559?host=hh.ru ')
+2022-11-28 01:42:13,637 INFO https://api.hh.ru/vacancies/72561559?host=hh.ru  421   41.53290019999258
+2022-11-28 01:42:13,777 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:13,777 INFO ('72702541', 'https://api.hh.ru/vacancies/72702541?host=hh.ru ')
+2022-11-28 01:42:13,777 INFO https://api.hh.ru/vacancies/72702541?host=hh.ru  422   41.67265059996862
+2022-11-28 01:42:13,879 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:13,879 INFO ('72885554', 'https://api.hh.ru/vacancies/72885554?host=hh.ru ')
+2022-11-28 01:42:13,879 INFO https://api.hh.ru/vacancies/72885554?host=hh.ru  423   41.77524409996113
+2022-11-28 01:42:13,961 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:13,961 INFO ('71780689', 'https://api.hh.ru/vacancies/71780689?host=hh.ru ')
+2022-11-28 01:42:13,961 INFO https://api.hh.ru/vacancies/71780689?host=hh.ru  424   41.856017099984456
+2022-11-28 01:42:14,040 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:14,040 INFO ('71933927', 'https://api.hh.ru/vacancies/71933927?host=hh.ru ')
+2022-11-28 01:42:14,040 INFO https://api.hh.ru/vacancies/71933927?host=hh.ru  425   41.93515789997764
+2022-11-28 01:42:14,116 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:14,116 INFO ('72885745', 'https://api.hh.ru/vacancies/72885745?host=hh.ru ')
+2022-11-28 01:42:14,116 INFO https://api.hh.ru/vacancies/72885745?host=hh.ru  426   42.01130670000566
+2022-11-28 01:42:14,202 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:14,202 INFO ('69144920', 'https://api.hh.ru/vacancies/69144920?host=hh.ru ')
+2022-11-28 01:42:14,202 INFO https://api.hh.ru/vacancies/69144920?host=hh.ru  427   42.096885499951895
+2022-11-28 01:42:14,282 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:14,282 INFO ('72879936', 'https://api.hh.ru/vacancies/72879936?host=hh.ru ')
+2022-11-28 01:42:14,283 INFO https://api.hh.ru/vacancies/72879936?host=hh.ru  428   42.17753619997529
+2022-11-28 01:42:14,354 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:14,354 INFO ('72141263', 'https://api.hh.ru/vacancies/72141263?host=hh.ru ')
+2022-11-28 01:42:14,354 INFO https://api.hh.ru/vacancies/72141263?host=hh.ru  429   42.249657200009096
+2022-11-28 01:42:14,438 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:14,438 INFO ('72372561', 'https://api.hh.ru/vacancies/72372561?host=hh.ru ')
+2022-11-28 01:42:14,438 INFO https://api.hh.ru/vacancies/72372561?host=hh.ru  430   42.33347189996857
+2022-11-28 01:42:14,517 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:14,518 INFO ('72701770', 'https://api.hh.ru/vacancies/72701770?host=hh.ru ')
+2022-11-28 01:42:14,518 INFO https://api.hh.ru/vacancies/72701770?host=hh.ru  431   42.41316170000937
+2022-11-28 01:42:14,589 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:14,589 INFO ('72862428', 'https://api.hh.ru/vacancies/72862428?host=hh.ru ')
+2022-11-28 01:42:14,589 INFO https://api.hh.ru/vacancies/72862428?host=hh.ru  432   42.484506299952045
+2022-11-28 01:42:14,659 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:14,659 INFO ('72699064', 'https://api.hh.ru/vacancies/72699064?host=hh.ru ')
+2022-11-28 01:42:14,659 INFO https://api.hh.ru/vacancies/72699064?host=hh.ru  433   42.5543289000052
+2022-11-28 01:42:14,757 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:14,757 INFO ('72695333', 'https://api.hh.ru/vacancies/72695333?host=hh.ru ')
+2022-11-28 01:42:14,757 INFO https://api.hh.ru/vacancies/72695333?host=hh.ru  434   42.652269699960016
+2022-11-28 01:42:14,824 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:14,824 INFO ('72888861', 'https://api.hh.ru/vacancies/72888861?host=hh.ru ')
+2022-11-28 01:42:14,824 INFO https://api.hh.ru/vacancies/72888861?host=hh.ru  435   42.71912439999869
+2022-11-28 01:42:15,072 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:15,072 INFO ('70965708', 'https://api.hh.ru/vacancies/70965708?host=hh.ru ')
+2022-11-28 01:42:15,072 INFO https://api.hh.ru/vacancies/70965708?host=hh.ru  436   42.967540799989365
+2022-11-28 01:42:15,156 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:15,157 INFO ('72880346', 'https://api.hh.ru/vacancies/72880346?host=hh.ru ')
+2022-11-28 01:42:15,157 INFO https://api.hh.ru/vacancies/72880346?host=hh.ru  437   43.05161239998415
+2022-11-28 01:42:15,286 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:15,286 INFO ('72558318', 'https://api.hh.ru/vacancies/72558318?host=hh.ru ')
+2022-11-28 01:42:15,286 INFO https://api.hh.ru/vacancies/72558318?host=hh.ru  438   43.181101499998476
+2022-11-28 01:42:15,380 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:15,380 INFO ('72991415', 'https://api.hh.ru/vacancies/72991415?host=hh.ru ')
+2022-11-28 01:42:15,380 INFO https://api.hh.ru/vacancies/72991415?host=hh.ru  439   43.27509279997321
+2022-11-28 01:42:15,461 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:15,461 INFO ('72888682', 'https://api.hh.ru/vacancies/72888682?host=hh.ru ')
+2022-11-28 01:42:15,461 INFO https://api.hh.ru/vacancies/72888682?host=hh.ru  440   43.356408299994655
+2022-11-28 01:42:15,600 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:15,600 INFO ('72693015', 'https://api.hh.ru/vacancies/72693015?host=hh.ru ')
+2022-11-28 01:42:15,600 INFO https://api.hh.ru/vacancies/72693015?host=hh.ru  441   43.495454799965955
+2022-11-28 01:42:15,670 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:15,670 INFO ('72697148', 'https://api.hh.ru/vacancies/72697148?host=hh.ru ')
+2022-11-28 01:42:15,670 INFO https://api.hh.ru/vacancies/72697148?host=hh.ru  442   43.56490669999039
+2022-11-28 01:42:15,754 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:15,754 INFO ('72563171', 'https://api.hh.ru/vacancies/72563171?host=hh.ru ')
+2022-11-28 01:42:15,754 INFO https://api.hh.ru/vacancies/72563171?host=hh.ru  443   43.64872469997499
+2022-11-28 01:42:15,827 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:15,827 INFO ('71785227', 'https://api.hh.ru/vacancies/71785227?host=hh.ru ')
+2022-11-28 01:42:15,827 INFO https://api.hh.ru/vacancies/71785227?host=hh.ru  444   43.72246979997726
+2022-11-28 01:42:16,165 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:16,165 INFO ('72881535', 'https://api.hh.ru/vacancies/72881535?host=hh.ru ')
+2022-11-28 01:42:16,165 INFO https://api.hh.ru/vacancies/72881535?host=hh.ru  445   44.05952269997215
+2022-11-28 01:42:16,238 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:16,238 INFO ('72697596', 'https://api.hh.ru/vacancies/72697596?host=hh.ru ')
+2022-11-28 01:42:16,238 INFO https://api.hh.ru/vacancies/72697596?host=hh.ru  446   44.13327719998779
+2022-11-28 01:42:16,309 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:16,310 INFO ('72562918', 'https://api.hh.ru/vacancies/72562918?host=hh.ru ')
+2022-11-28 01:42:16,310 INFO https://api.hh.ru/vacancies/72562918?host=hh.ru  447   44.20446019998053
+2022-11-28 01:42:16,624 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:16,624 INFO ('72887348', 'https://api.hh.ru/vacancies/72887348?host=hh.ru ')
+2022-11-28 01:42:16,624 INFO https://api.hh.ru/vacancies/72887348?host=hh.ru  448   44.519522799993865
+2022-11-28 01:42:16,747 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:16,748 INFO ('72989065', 'https://api.hh.ru/vacancies/72989065?host=hh.ru ')
+2022-11-28 01:42:16,748 INFO https://api.hh.ru/vacancies/72989065?host=hh.ru  449   44.64260600000853
+2022-11-28 01:42:16,818 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:16,818 INFO ('72559260', 'https://api.hh.ru/vacancies/72559260?host=hh.ru ')
+2022-11-28 01:42:16,818 INFO https://api.hh.ru/vacancies/72559260?host=hh.ru  450   44.713315600005444
+2022-11-28 01:42:16,901 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:16,901 INFO ('72376014', 'https://api.hh.ru/vacancies/72376014?host=hh.ru ')
+2022-11-28 01:42:16,901 INFO https://api.hh.ru/vacancies/72376014?host=hh.ru  451   44.79673529998399
+2022-11-28 01:42:16,979 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:16,979 INFO ('72560935', 'https://api.hh.ru/vacancies/72560935?host=hh.ru ')
+2022-11-28 01:42:16,979 INFO https://api.hh.ru/vacancies/72560935?host=hh.ru  452   44.8739179999684
+2022-11-28 01:42:17,049 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:17,049 INFO ('71781463', 'https://api.hh.ru/vacancies/71781463?host=hh.ru ')
+2022-11-28 01:42:17,049 INFO https://api.hh.ru/vacancies/71781463?host=hh.ru  453   44.94409069995163
+2022-11-28 01:42:17,118 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:17,119 INFO ('72885110', 'https://api.hh.ru/vacancies/72885110?host=hh.ru ')
+2022-11-28 01:42:17,119 INFO https://api.hh.ru/vacancies/72885110?host=hh.ru  454   45.0135983999935
+2022-11-28 01:42:17,238 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:17,238 INFO ('71072291', 'https://api.hh.ru/vacancies/71072291?host=hh.ru ')
+2022-11-28 01:42:17,238 INFO https://api.hh.ru/vacancies/71072291?host=hh.ru  455   45.133339799998794
+2022-11-28 01:42:17,308 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:17,308 INFO ('66140030', 'https://api.hh.ru/vacancies/66140030?host=hh.ru ')
+2022-11-28 01:42:17,308 INFO https://api.hh.ru/vacancies/66140030?host=hh.ru  456   45.20313159999205
+2022-11-28 01:42:17,401 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:17,401 INFO ('72366219', 'https://api.hh.ru/vacancies/72366219?host=hh.ru ')
+2022-11-28 01:42:17,401 INFO https://api.hh.ru/vacancies/72366219?host=hh.ru  457   45.29640599997947
+2022-11-28 01:42:17,620 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:17,620 INFO ('72695107', 'https://api.hh.ru/vacancies/72695107?host=hh.ru ')
+2022-11-28 01:42:17,620 INFO https://api.hh.ru/vacancies/72695107?host=hh.ru  458   45.51540889998432
+2022-11-28 01:42:17,685 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:17,685 INFO ('71932621', 'https://api.hh.ru/vacancies/71932621?host=hh.ru ')
+2022-11-28 01:42:17,685 INFO https://api.hh.ru/vacancies/71932621?host=hh.ru  459   45.57967839995399
+2022-11-28 01:42:17,785 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:17,785 INFO ('72889491', 'https://api.hh.ru/vacancies/72889491?host=hh.ru ')
+2022-11-28 01:42:17,785 INFO https://api.hh.ru/vacancies/72889491?host=hh.ru  460   45.6798993999837
+2022-11-28 01:42:17,851 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:17,851 INFO ('72692965', 'https://api.hh.ru/vacancies/72692965?host=hh.ru ')
+2022-11-28 01:42:17,851 INFO https://api.hh.ru/vacancies/72692965?host=hh.ru  461   45.74713499995414
+2022-11-28 01:42:17,928 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:17,928 INFO ('72695183', 'https://api.hh.ru/vacancies/72695183?host=hh.ru ')
+2022-11-28 01:42:17,928 INFO https://api.hh.ru/vacancies/72695183?host=hh.ru  462   45.82282209995901
+2022-11-28 01:42:18,031 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:18,031 INFO ('72699755', 'https://api.hh.ru/vacancies/72699755?host=hh.ru ')
+2022-11-28 01:42:18,031 INFO https://api.hh.ru/vacancies/72699755?host=hh.ru  463   45.92585559998406
+2022-11-28 01:42:18,097 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:18,098 INFO ('71719019', 'https://api.hh.ru/vacancies/71719019?host=hh.ru ')
+2022-11-28 01:42:18,098 INFO https://api.hh.ru/vacancies/71719019?host=hh.ru  464   45.99301709997235
+2022-11-28 01:42:18,169 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:18,169 INFO ('72989215', 'https://api.hh.ru/vacancies/72989215?host=hh.ru ')
+2022-11-28 01:42:18,169 INFO https://api.hh.ru/vacancies/72989215?host=hh.ru  465   46.06459129997529
+2022-11-28 01:42:18,269 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:18,270 INFO ('72883853', 'https://api.hh.ru/vacancies/72883853?host=hh.ru ')
+2022-11-28 01:42:18,270 INFO https://api.hh.ru/vacancies/72883853?host=hh.ru  466   46.16455499996664
+2022-11-28 01:42:18,395 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:18,395 INFO ('70050624', 'https://api.hh.ru/vacancies/70050624?host=hh.ru ')
+2022-11-28 01:42:18,395 INFO https://api.hh.ru/vacancies/70050624?host=hh.ru  467   46.29038929997478
+2022-11-28 01:42:18,489 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:18,489 INFO ('72890296', 'https://api.hh.ru/vacancies/72890296?host=hh.ru ')
+2022-11-28 01:42:18,489 INFO https://api.hh.ru/vacancies/72890296?host=hh.ru  468   46.38456390000647
+2022-11-28 01:42:18,576 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:18,576 INFO ('72879557', 'https://api.hh.ru/vacancies/72879557?host=hh.ru ')
+2022-11-28 01:42:18,576 INFO https://api.hh.ru/vacancies/72879557?host=hh.ru  469   46.471290899964515
+2022-11-28 01:42:18,695 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:18,695 INFO ('72695155', 'https://api.hh.ru/vacancies/72695155?host=hh.ru ')
+2022-11-28 01:42:18,695 INFO https://api.hh.ru/vacancies/72695155?host=hh.ru  470   46.59030859998893
+2022-11-28 01:42:18,774 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:18,774 INFO ('72141128', 'https://api.hh.ru/vacancies/72141128?host=hh.ru ')
+2022-11-28 01:42:18,774 INFO https://api.hh.ru/vacancies/72141128?host=hh.ru  471   46.66946379997535
+2022-11-28 01:42:18,857 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:18,857 INFO ('72693751', 'https://api.hh.ru/vacancies/72693751?host=hh.ru ')
+2022-11-28 01:42:18,857 INFO https://api.hh.ru/vacancies/72693751?host=hh.ru  472   46.75216699996963
+2022-11-28 01:42:18,976 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:18,976 INFO ('71782057', 'https://api.hh.ru/vacancies/71782057?host=hh.ru ')
+2022-11-28 01:42:18,976 INFO https://api.hh.ru/vacancies/71782057?host=hh.ru  473   46.87162269995315
+2022-11-28 01:42:19,081 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:19,081 INFO ('71575036', 'https://api.hh.ru/vacancies/71575036?host=hh.ru ')
+2022-11-28 01:42:19,081 INFO https://api.hh.ru/vacancies/71575036?host=hh.ru  474   46.97605689999182
+2022-11-28 01:42:19,157 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:19,157 INFO ('72141255', 'https://api.hh.ru/vacancies/72141255?host=hh.ru ')
+2022-11-28 01:42:19,157 INFO https://api.hh.ru/vacancies/72141255?host=hh.ru  475   47.052809899963904
+2022-11-28 01:42:19,232 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:19,233 INFO ('72376724', 'https://api.hh.ru/vacancies/72376724?host=hh.ru ')
+2022-11-28 01:42:19,233 INFO https://api.hh.ru/vacancies/72376724?host=hh.ru  476   47.12765069998568
+2022-11-28 01:42:19,326 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:19,326 INFO ('72694986', 'https://api.hh.ru/vacancies/72694986?host=hh.ru ')
+2022-11-28 01:42:19,326 INFO https://api.hh.ru/vacancies/72694986?host=hh.ru  477   47.22138379997341
+2022-11-28 01:42:19,389 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:19,389 INFO ('72139639', 'https://api.hh.ru/vacancies/72139639?host=hh.ru ')
+2022-11-28 01:42:19,389 INFO https://api.hh.ru/vacancies/72139639?host=hh.ru  478   47.28434959996957
+2022-11-28 01:42:19,462 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:19,463 INFO ('72990280', 'https://api.hh.ru/vacancies/72990280?host=hh.ru ')
+2022-11-28 01:42:19,463 INFO https://api.hh.ru/vacancies/72990280?host=hh.ru  479   47.357517800002825
+2022-11-28 01:42:19,544 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:19,544 INFO ('72367833', 'https://api.hh.ru/vacancies/72367833?host=hh.ru ')
+2022-11-28 01:42:19,544 INFO https://api.hh.ru/vacancies/72367833?host=hh.ru  480   47.4392256999854
+2022-11-28 01:42:19,609 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:19,610 INFO ('72890333', 'https://api.hh.ru/vacancies/72890333?host=hh.ru ')
+2022-11-28 01:42:19,610 INFO https://api.hh.ru/vacancies/72890333?host=hh.ru  481   47.50471299997298
+2022-11-28 01:42:19,697 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:19,697 INFO ('72884882', 'https://api.hh.ru/vacancies/72884882?host=hh.ru ')
+2022-11-28 01:42:19,697 INFO https://api.hh.ru/vacancies/72884882?host=hh.ru  482   47.59305129997665
+2022-11-28 01:42:19,773 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:19,773 INFO ('71934185', 'https://api.hh.ru/vacancies/71934185?host=hh.ru ')
+2022-11-28 01:42:19,773 INFO https://api.hh.ru/vacancies/71934185?host=hh.ru  483   47.66859670000849
+2022-11-28 01:42:19,851 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:19,851 INFO ('70472683', 'https://api.hh.ru/vacancies/70472683?host=hh.ru ')
+2022-11-28 01:42:19,851 INFO https://api.hh.ru/vacancies/70472683?host=hh.ru  484   47.7463310000021
+2022-11-28 01:42:19,927 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:19,927 INFO ('72563850', 'https://api.hh.ru/vacancies/72563850?host=hh.ru ')
+2022-11-28 01:42:19,927 INFO https://api.hh.ru/vacancies/72563850?host=hh.ru  485   47.82223009999143
+2022-11-28 01:42:19,999 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:19,999 INFO ('72560522', 'https://api.hh.ru/vacancies/72560522?host=hh.ru ')
+2022-11-28 01:42:20,000 INFO https://api.hh.ru/vacancies/72560522?host=hh.ru  486   47.894999799958896
+2022-11-28 01:42:20,071 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:20,071 INFO ('72141935', 'https://api.hh.ru/vacancies/72141935?host=hh.ru ')
+2022-11-28 01:42:20,071 INFO https://api.hh.ru/vacancies/72141935?host=hh.ru  487   47.966451499960385
+2022-11-28 01:42:20,150 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:20,150 INFO ('69024254', 'https://api.hh.ru/vacancies/69024254?host=hh.ru ')
+2022-11-28 01:42:20,150 INFO https://api.hh.ru/vacancies/69024254?host=hh.ru  488   48.04490400000941
+2022-11-28 01:42:20,231 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:20,232 INFO ('72884159', 'https://api.hh.ru/vacancies/72884159?host=hh.ru ')
+2022-11-28 01:42:20,232 INFO https://api.hh.ru/vacancies/72884159?host=hh.ru  489   48.12686159997247
+2022-11-28 01:42:20,313 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:20,313 INFO ('46524037', 'https://api.hh.ru/vacancies/46524037?host=hh.ru ')
+2022-11-28 01:42:20,313 INFO https://api.hh.ru/vacancies/46524037?host=hh.ru  490   48.20750560000306
+2022-11-28 01:42:20,380 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:20,380 INFO ('71755637', 'https://api.hh.ru/vacancies/71755637?host=hh.ru ')
+2022-11-28 01:42:20,380 INFO https://api.hh.ru/vacancies/71755637?host=hh.ru  491   48.275566999975126
+2022-11-28 01:42:20,455 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:20,456 INFO ('72137450', 'https://api.hh.ru/vacancies/72137450?host=hh.ru ')
+2022-11-28 01:42:20,456 INFO https://api.hh.ru/vacancies/72137450?host=hh.ru  492   48.35080989997368
+2022-11-28 01:42:20,581 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:20,581 INFO ('72695184', 'https://api.hh.ru/vacancies/72695184?host=hh.ru ')
+2022-11-28 01:42:20,581 INFO https://api.hh.ru/vacancies/72695184?host=hh.ru  493   48.4765334999538
+2022-11-28 01:42:20,658 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:20,658 INFO ('72887608', 'https://api.hh.ru/vacancies/72887608?host=hh.ru ')
+2022-11-28 01:42:20,658 INFO https://api.hh.ru/vacancies/72887608?host=hh.ru  494   48.55297839996638
+2022-11-28 01:42:20,732 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:20,732 INFO ('72888885', 'https://api.hh.ru/vacancies/72888885?host=hh.ru ')
+2022-11-28 01:42:20,732 INFO https://api.hh.ru/vacancies/72888885?host=hh.ru  495   48.627776100009214
+2022-11-28 01:42:20,832 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:20,832 INFO ('72693984', 'https://api.hh.ru/vacancies/72693984?host=hh.ru ')
+2022-11-28 01:42:20,832 INFO https://api.hh.ru/vacancies/72693984?host=hh.ru  496   48.72708759998204
+2022-11-28 01:42:20,906 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:20,906 INFO ('71931137', 'https://api.hh.ru/vacancies/71931137?host=hh.ru ')
+2022-11-28 01:42:20,907 INFO https://api.hh.ru/vacancies/71931137?host=hh.ru  497   48.80194400000619
+2022-11-28 01:42:20,994 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:20,995 INFO ('72990603', 'https://api.hh.ru/vacancies/72990603?host=hh.ru ')
+2022-11-28 01:42:20,995 INFO https://api.hh.ru/vacancies/72990603?host=hh.ru  498   48.889332799997646
+2022-11-28 01:42:21,114 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:21,114 INFO ('66140031', 'https://api.hh.ru/vacancies/66140031?host=hh.ru ')
+2022-11-28 01:42:21,114 INFO https://api.hh.ru/vacancies/66140031?host=hh.ru  499   49.009464200004004
+2022-11-28 01:42:21,292 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:21,292 INFO ('69381312', 'https://api.hh.ru/vacancies/69381312?host=hh.ru ')
+2022-11-28 01:42:21,292 INFO https://api.hh.ru/vacancies/69381312?host=hh.ru  500   49.187473999976646
+2022-11-28 01:42:21,422 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:21,422 INFO ('69269517', 'https://api.hh.ru/vacancies/69269517?host=hh.ru ')
+2022-11-28 01:42:21,422 INFO https://api.hh.ru/vacancies/69269517?host=hh.ru  501   49.31735069997376
+2022-11-28 01:42:21,495 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:21,495 INFO ('71784478', 'https://api.hh.ru/vacancies/71784478?host=hh.ru ')
+2022-11-28 01:42:21,495 INFO https://api.hh.ru/vacancies/71784478?host=hh.ru  502   49.390546899987385
+2022-11-28 01:42:21,599 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:21,599 INFO ('72888772', 'https://api.hh.ru/vacancies/72888772?host=hh.ru ')
+2022-11-28 01:42:21,599 INFO https://api.hh.ru/vacancies/72888772?host=hh.ru  503   49.49432759999763
+2022-11-28 01:42:21,670 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:21,671 INFO ('72989057', 'https://api.hh.ru/vacancies/72989057?host=hh.ru ')
+2022-11-28 01:42:21,671 INFO https://api.hh.ru/vacancies/72989057?host=hh.ru  504   49.56635229999665
+2022-11-28 01:42:21,794 ERROR dump() missing 1 required positional argument: 'fp'
+2022-11-28 01:42:21,795 INFO ('72695349', 'https://api.hh.ru/vacancies/72695349?host=hh.ru ')
+2022-11-28 01:42:21,795 INFO https://api.hh.ru/vacancies/72695349?host=hh.ru  505   49.690492999972776

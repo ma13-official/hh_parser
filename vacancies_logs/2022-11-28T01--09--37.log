@@ -1,0 +1,8 @@
+2022-11-28 01:09:37,084 INFO Upload of single vacancies JSONs started.
+2022-11-28 01:09:37,383 INFO <_io.TextIOWrapper name='C:/Users/mi/OneDrive - ITMO UNIVERSITY/work/hh_parser/json_urls/2022-11-25.xlsx' mode='r' encoding='cp1251'>
+2022-11-28 01:09:37,525 INFO ('72921786', 'https://api.hh.ru/vacancies/72921786?host=hh.ru ')
+2022-11-28 01:09:37,525 INFO https://api.hh.ru/vacancies/72921786?host=hh.ru  1   0.141748100053519
+2022-11-28 01:09:37,619 ERROR 'id'
+2022-11-28 01:09:37,649 INFO ('71944752', 'https://api.hh.ru/vacancies/71944752?host=hh.ru ')
+2022-11-28 01:09:37,649 INFO https://api.hh.ru/vacancies/71944752?host=hh.ru  2   0.2655763000366278
+2022-11-28 01:09:37,777 INFO Program works 1 seconds
